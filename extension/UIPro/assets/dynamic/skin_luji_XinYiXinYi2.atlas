@@ -1,0 +1,622 @@
+
+skin_luji_XinYiXinYi2.png
+size: 1016,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TXXXX/maobi/maobi_00000
+  rotate: false
+  xy: 717, 21
+  size: 27, 27
+  orig: 300, 300
+  offset: 124, 145
+  index: -1
+TXXXX/maobi/maobi_00004
+  rotate: false
+  xy: 655, 18
+  size: 31, 29
+  orig: 300, 300
+  offset: 121, 144
+  index: -1
+TXXXX/maobi/maobi_00008
+  rotate: false
+  xy: 549, 19
+  size: 35, 28
+  orig: 300, 300
+  offset: 121, 143
+  index: -1
+TXXXX/maobi/maobi_00012
+  rotate: false
+  xy: 81, 14
+  size: 38, 28
+  orig: 300, 300
+  offset: 121, 144
+  index: -1
+TXXXX/maobi/maobi_00016
+  rotate: true
+  xy: 971, 363
+  size: 47, 42
+  orig: 300, 300
+  offset: 112, 142
+  index: -1
+TXXXX/maobi/maobi_00020
+  rotate: true
+  xy: 971, 412
+  size: 49, 43
+  orig: 300, 300
+  offset: 112, 140
+  index: -1
+TXXXX/maobi/maobi_00024
+  rotate: false
+  xy: 2, 10
+  size: 36, 32
+  orig: 300, 300
+  offset: 116, 146
+  index: -1
+TXXXX/maobi/maobi_00028
+  rotate: false
+  xy: 913, 57
+  size: 38, 29
+  orig: 300, 300
+  offset: 115, 145
+  index: -1
+TXXXX/maobi/maobi_00032
+  rotate: false
+  xy: 121, 15
+  size: 39, 27
+  orig: 300, 300
+  offset: 116, 145
+  index: -1
+TXXXX/maobi/maobi_00036
+  rotate: false
+  xy: 590, 425
+  size: 38, 30
+  orig: 300, 300
+  offset: 117, 145
+  index: -1
+TXXXX/maobi/maobi_00040
+  rotate: false
+  xy: 40, 14
+  size: 39, 28
+  orig: 300, 300
+  offset: 118, 144
+  index: -1
+TXXXX/maobi/maobi_00044
+  rotate: false
+  xy: 970, 332
+  size: 37, 29
+  orig: 300, 300
+  offset: 120, 143
+  index: -1
+TXXXX/maobi/maobi_00048
+  rotate: false
+  xy: 511, 20
+  size: 36, 27
+  orig: 300, 300
+  offset: 122, 142
+  index: -1
+TXXXX/maobi/maobi_00052
+  rotate: false
+  xy: 970, 301
+  size: 36, 29
+  orig: 300, 300
+  offset: 123, 142
+  index: -1
+TXXXX/maobi/maobi_00056
+  rotate: false
+  xy: 953, 55
+  size: 28, 31
+  orig: 300, 300
+  offset: 121, 142
+  index: -1
+TXXXX/maobi/maobi_00060
+  rotate: true
+  xy: 586, 17
+  size: 30, 33
+  orig: 300, 300
+  offset: 121, 140
+  index: -1
+TXXXX/maobi/maobi_00064
+  rotate: true
+  xy: 621, 17
+  size: 30, 32
+  orig: 300, 300
+  offset: 123, 143
+  index: -1
+TXXXX/maobi/maobi_00068
+  rotate: false
+  xy: 970, 268
+  size: 33, 31
+  orig: 300, 300
+  offset: 122, 143
+  index: -1
+TXXXX/maobi/maobi_00072
+  rotate: false
+  xy: 761, 377
+  size: 36, 32
+  orig: 300, 300
+  offset: 121, 144
+  index: -1
+TXXXX/maobi/maobi_00076
+  rotate: false
+  xy: 951, 22
+  size: 28, 31
+  orig: 300, 300
+  offset: 122, 144
+  index: -1
+TXXXX/maobi/maobi_00080
+  rotate: true
+  xy: 688, 19
+  size: 28, 27
+  orig: 300, 300
+  offset: 123, 145
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00000
+  rotate: false
+  xy: 822, 463
+  size: 172, 90
+  orig: 191, 143
+  offset: 0, 30
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00004
+  rotate: false
+  xy: 243, 171
+  size: 174, 86
+  orig: 191, 143
+  offset: 0, 30
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00008
+  rotate: false
+  xy: 301, 353
+  size: 177, 87
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00012
+  rotate: false
+  xy: 647, 503
+  size: 173, 85
+  orig: 191, 143
+  offset: 0, 32
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00016
+  rotate: false
+  xy: 630, 411
+  size: 172, 90
+  orig: 191, 143
+  offset: 0, 32
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00020
+  rotate: false
+  xy: 844, 734
+  size: 167, 94
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00024
+  rotate: true
+  xy: 328, 4
+  size: 165, 91
+  orig: 191, 143
+  offset: 0, 32
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00028
+  rotate: false
+  xy: 804, 375
+  size: 165, 86
+  orig: 191, 143
+  offset: 0, 32
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00032
+  rotate: true
+  xy: 420, 189
+  size: 162, 85
+  orig: 191, 143
+  offset: 0, 32
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00036
+  rotate: false
+  xy: 601, 324
+  size: 158, 85
+  orig: 191, 143
+  offset: 0, 32
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00040
+  rotate: true
+  xy: 511, 49
+  size: 160, 85
+  orig: 191, 143
+  offset: 0, 32
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00044
+  rotate: true
+  xy: 421, 25
+  size: 162, 88
+  orig: 191, 143
+  offset: 0, 32
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00048
+  rotate: true
+  xy: 507, 211
+  size: 162, 92
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00052
+  rotate: true
+  xy: 230, 2
+  size: 167, 96
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00056
+  rotate: false
+  xy: 844, 830
+  size: 169, 95
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00060
+  rotate: false
+  xy: 827, 555
+  size: 175, 86
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00064
+  rotate: false
+  xy: 844, 927
+  size: 170, 87
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00068
+  rotate: false
+  xy: 828, 643
+  size: 176, 89
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00072
+  rotate: false
+  xy: 647, 590
+  size: 178, 90
+  orig: 191, 143
+  offset: 0, 31
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00076
+  rotate: false
+  xy: 647, 682
+  size: 179, 92
+  orig: 191, 143
+  offset: 0, 30
+  index: -1
+TXXXX/zifuguang/zifuguang_1_00080
+  rotate: false
+  xy: 243, 259
+  size: 175, 92
+  orig: 191, 143
+  offset: 0, 30
+  index: -1
+TXXXX/zuoshou/zuoshou_00031
+  rotate: true
+  xy: 295, 358
+  size: 5, 4
+  orig: 300, 300
+  offset: 89, 152
+  index: -1
+TXXXX/zuoshou/zuoshou_00032
+  rotate: true
+  xy: 1005, 289
+  size: 10, 9
+  orig: 300, 300
+  offset: 87, 151
+  index: -1
+TXXXX/zuoshou/zuoshou_00033
+  rotate: true
+  xy: 137, 2
+  size: 11, 12
+  orig: 300, 300
+  offset: 87, 151
+  index: -1
+TXXXX/zuoshou/zuoshou_00034
+  rotate: true
+  xy: 512, 442
+  size: 13, 14
+  orig: 300, 300
+  offset: 87, 151
+  index: -1
+TXXXX/zuoshou/zuoshou_00035
+  rotate: false
+  xy: 828, 739
+  size: 14, 16
+  orig: 300, 300
+  offset: 87, 151
+  index: -1
+TXXXX/zuoshou/zuoshou_00036
+  rotate: false
+  xy: 804, 485
+  size: 16, 16
+  orig: 300, 300
+  offset: 87, 152
+  index: -1
+TXXXX/zuoshou/zuoshou_00037
+  rotate: false
+  xy: 630, 545
+  size: 15, 14
+  orig: 300, 300
+  offset: 88, 154
+  index: -1
+TXXXX/zuoshou/zuoshou_00038
+  rotate: false
+  xy: 804, 467
+  size: 16, 16
+  orig: 300, 300
+  offset: 88, 155
+  index: -1
+TXXXX/zuoshou/zuoshou_00039
+  rotate: false
+  xy: 828, 757
+  size: 14, 17
+  orig: 300, 300
+  offset: 90, 157
+  index: -1
+TXXXX/zuoshou/zuoshou_00040
+  rotate: false
+  xy: 230, 181
+  size: 11, 17
+  orig: 300, 300
+  offset: 93, 159
+  index: -1
+TXXXX/zuoshou/zuoshou_00041
+  rotate: true
+  xy: 282, 365
+  size: 11, 17
+  orig: 300, 300
+  offset: 93, 161
+  index: -1
+TXXXX/zuoshou/zuoshou_00042
+  rotate: true
+  xy: 121, 2
+  size: 11, 14
+  orig: 300, 300
+  offset: 93, 164
+  index: -1
+TXXXX/zuoshou/zuoshou_00043
+  rotate: true
+  xy: 282, 353
+  size: 10, 11
+  orig: 300, 300
+  offset: 94, 167
+  index: -1
+TXXXX/zuoshou/zuoshou_00044
+  rotate: false
+  xy: 230, 171
+  size: 10, 8
+  orig: 300, 300
+  offset: 94, 170
+  index: -1
+TXXXX/zuoshou/zuoshou_00045
+  rotate: true
+  xy: 906, 151
+  size: 4, 5
+  orig: 300, 300
+  offset: 100, 172
+  index: -1
+TXXXX/zuoshou/zuoshou_00046
+  rotate: false
+  xy: 507, 207
+  size: 2, 2
+  orig: 300, 300
+  offset: 102, 174
+  index: -1
+luji_biyan
+  rotate: false
+  xy: 243, 353
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+luji_guang01
+  rotate: false
+  xy: 2, 142
+  size: 226, 82
+  orig: 226, 82
+  offset: 0, 0
+  index: -1
+luji_guangyun01
+  rotate: false
+  xy: 2, 44
+  size: 174, 96
+  orig: 176, 98
+  offset: 2, 1
+  index: -1
+luji_liusu
+  rotate: false
+  xy: 919, 17
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+luji_maobi01
+  rotate: false
+  xy: 761, 250
+  size: 114, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: -1
+luji_maobi02
+  rotate: true
+  xy: 178, 54
+  size: 86, 50
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+luji_muzhi
+  rotate: false
+  xy: 230, 200
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+luji_pifeng
+  rotate: false
+  xy: 2, 226
+  size: 239, 150
+  orig: 240, 150
+  offset: 1, 0
+  index: -1
+luji_qunbai02
+  rotate: false
+  xy: 877, 253
+  size: 91, 120
+  orig: 91, 122
+  offset: 0, 0
+  index: -1
+luji_qunzi
+  rotate: false
+  xy: 2, 378
+  size: 297, 208
+  orig: 297, 208
+  offset: 0, 0
+  index: -1
+luji_sheng
+  rotate: true
+  xy: 716, 149
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+luji_shenti
+  rotate: false
+  xy: 647, 776
+  size: 195, 238
+  orig: 206, 238
+  offset: 0, 0
+  index: -1
+luji_shujian02
+  rotate: false
+  xy: 2, 588
+  size: 643, 426
+  orig: 643, 426
+  offset: 0, 0
+  index: -1
+luji_tou
+  rotate: false
+  xy: 913, 88
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+luji_toufa01
+  rotate: false
+  xy: 843, 2
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+luji_toufa02
+  rotate: false
+  xy: 598, 49
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+luji_toufa03
+  rotate: false
+  xy: 512, 457
+  size: 116, 129
+  orig: 116, 130
+  offset: 0, 0
+  index: -1
+luji_toufa04
+  rotate: true
+  xy: 906, 157
+  size: 94, 57
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+luji_toufa05
+  rotate: true
+  xy: 535, 380
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+luji_toufa06
+  rotate: true
+  xy: 777, 147
+  size: 101, 69
+  orig: 101, 69
+  offset: 0, 0
+  index: -1
+luji_toufa07
+  rotate: false
+  xy: 601, 241
+  size: 158, 81
+  orig: 158, 86
+  offset: 0, 5
+  index: -1
+luji_toufa08
+  rotate: true
+  xy: 708, 50
+  size: 97, 60
+  orig: 99, 60
+  offset: 2, 0
+  index: -1
+luji_youjianjia
+  rotate: true
+  xy: 480, 378
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+luji_ytongkong
+  rotate: true
+  xy: 630, 561
+  size: 25, 15
+  orig: 25, 16
+  offset: 0, 1
+  index: -1
+luji_yyanbai
+  rotate: false
+  xy: 421, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+luji_zuodabi01
+  rotate: true
+  xy: 601, 160
+  size: 79, 113
+  orig: 79, 113
+  offset: 0, 0
+  index: -1
+luji_zuodabi02
+  rotate: true
+  xy: 301, 442
+  size: 144, 209
+  orig: 144, 209
+  offset: 0, 0
+  index: -1
+luji_zuojianjia
+  rotate: true
+  xy: 770, 52
+  size: 93, 71
+  orig: 93, 72
+  offset: 0, 1
+  index: -1
+luji_zuoshou
+  rotate: false
+  xy: 843, 57
+  size: 68, 88
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+luji_zuoxiaobi
+  rotate: false
+  xy: 848, 150
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1

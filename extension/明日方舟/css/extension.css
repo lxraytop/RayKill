@@ -1,0 +1,440 @@
+.camp-wrap[data-camp='luomrfz'] > .camp-back {
+    overflow: hidden;
+}
+
+
+.camp-wrap[data-camp='samimrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(24, 131, 239);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='luomrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(8, 46, 84);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='yanmrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(178,34,34);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='haimrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(0,191,255);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.8); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='liemrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(127,255,212);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='xiemrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(255,250,250);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.6); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='bamrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(0,0,0);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='yimrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(255,240,245);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='orthermrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(160,32,240);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='laimrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(208 32 144);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='xumrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(205 175 149);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='qimrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(131 111 255);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='kamrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(255 114 86);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='gemrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(255 215 0);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='longmrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(85, 132, 132);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='weimrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(185, 70, 28);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='shimrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(197, 200, 23);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.5); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='wumrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(64, 64, 61);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='lamrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(55, 34, 82);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='samrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(119, 130, 49);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='limrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(220, 93, 76);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='ximrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(57, 44, 123);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='hongmrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(71, 81, 124);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='dongmrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(220, 164, 164);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(1); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='lymrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(144 238 144);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.8); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='shenmrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(207, 228, 13);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.8); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='qianmrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(0, 0, 0);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.8); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='mimrfz'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgb(255, 167, 4);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.8); /*设置亮度，范围：0-1*/
+}
+
+.camp-wrap[data-camp='mrfzgroup'] > .camp-back:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: linear-gradient(to bottom, red, orange, yellow, green, blue, indigo, violet);
+    background-size: 400%;
+    -webkit-filter:brightness(0.6);
+    -o-filter:brightness(0.6);
+    -moz-filter:brightness(0.6);
+    filter:brightness(0.8); /*设置亮度，范围：0-1*/
+}
+

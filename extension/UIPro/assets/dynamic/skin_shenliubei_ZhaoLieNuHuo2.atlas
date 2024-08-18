@@ -1,0 +1,286 @@
+
+skin_shenliubei_ZhaoLieNuHuo2.png
+size: 1006,1006
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R24
+  rotate: true
+  xy: 834, 356
+  size: 69, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1
+R25
+  rotate: false
+  xy: 911, 678
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+R26
+  rotate: false
+  xy: 833, 291
+  size: 35, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+R27
+  rotate: true
+  xy: 897, 491
+  size: 131, 107
+  orig: 139, 109
+  offset: 2, 2
+  index: -1
+R28
+  rotate: true
+  xy: 458, 199
+  size: 63, 73
+  orig: 63, 76
+  offset: 0, 3
+  index: -1
+R29
+  rotate: true
+  xy: 833, 323
+  size: 31, 42
+  orig: 31, 43
+  offset: 0, 1
+  index: -1
+R31
+  rotate: true
+  xy: 911, 753
+  size: 117, 90
+  orig: 118, 90
+  offset: 1, 0
+  index: -1
+R32
+  rotate: true
+  xy: 438, 641
+  size: 363, 245
+  orig: 363, 245
+  offset: 0, 0
+  index: -1
+R33
+  rotate: true
+  xy: 880, 258
+  size: 116, 119
+  orig: 116, 119
+  offset: 0, 0
+  index: -1
+R34
+  rotate: false
+  xy: 2, 510
+  size: 434, 494
+  orig: 434, 494
+  offset: 0, 0
+  index: -1
+R35
+  rotate: true
+  xy: 896, 376
+  size: 113, 99
+  orig: 113, 99
+  offset: 0, 0
+  index: -1
+R37
+  rotate: false
+  xy: 538, 374
+  size: 141, 120
+  orig: 141, 120
+  offset: 0, 0
+  index: -1
+R48
+  rotate: false
+  xy: 833, 258
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+R50
+  rotate: false
+  xy: 2, 5
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+R51
+  rotate: false
+  xy: 2, 16
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+R52
+  rotate: false
+  xy: 838, 476
+  size: 56, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+R53
+  rotate: false
+  xy: 438, 514
+  size: 100, 125
+  orig: 100, 128
+  offset: 0, 3
+  index: -1
+R54
+  rotate: true
+  xy: 533, 251
+  size: 121, 146
+  orig: 121, 146
+  offset: 0, 0
+  index: -1
+R55
+  rotate: true
+  xy: 685, 530
+  size: 139, 210
+  orig: 140, 210
+  offset: 0, 0
+  index: -1
+R56
+  rotate: true
+  xy: 2, 28
+  size: 480, 454
+  orig: 480, 456
+  offset: 0, 1
+  index: -1
+R57
+  rotate: false
+  xy: 838, 427
+  size: 56, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+R58
+  rotate: false
+  xy: 911, 624
+  size: 80, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+R59
+  rotate: false
+  xy: 685, 671
+  size: 224, 199
+  orig: 238, 200
+  offset: 8, 0
+  index: -1
+R8_2
+  rotate: false
+  xy: 458, 413
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+TX2
+  rotate: false
+  xy: 685, 872
+  size: 315, 132
+  orig: 317, 136
+  offset: 0, 3
+  index: -1
+tx_renyan_00000
+  rotate: false
+  xy: 681, 313
+  size: 150, 71
+  orig: 190, 114
+  offset: 32, 18
+  index: -1
+tx_renyan_00002
+  rotate: false
+  xy: 681, 240
+  size: 150, 71
+  orig: 190, 114
+  offset: 32, 19
+  index: -1
+tx_renyan_00004
+  rotate: false
+  xy: 685, 458
+  size: 151, 70
+  orig: 190, 114
+  offset: 31, 20
+  index: -1
+tx_renyan_00006
+  rotate: false
+  xy: 681, 386
+  size: 151, 70
+  orig: 190, 114
+  offset: 30, 20
+  index: -1
+tx_renyan_00008
+  rotate: false
+  xy: 833, 186
+  size: 150, 70
+  orig: 190, 114
+  offset: 29, 20
+  index: -1
+tx_renyan_00010
+  rotate: true
+  xy: 458, 48
+  size: 149, 72
+  orig: 190, 114
+  offset: 29, 18
+  index: -1
+tx_renyan_00012
+  rotate: false
+  xy: 532, 105
+  size: 147, 72
+  orig: 190, 114
+  offset: 31, 18
+  index: -1
+tx_renyan_00014
+  rotate: true
+  xy: 458, 264
+  size: 147, 73
+  orig: 190, 114
+  offset: 31, 18
+  index: -1
+tx_renyan_00016
+  rotate: true
+  xy: 681, 18
+  size: 147, 71
+  orig: 190, 114
+  offset: 31, 20
+  index: -1
+tx_renyan_00018
+  rotate: false
+  xy: 533, 179
+  size: 146, 70
+  orig: 190, 114
+  offset: 31, 20
+  index: -1
+tx_renyan_00020
+  rotate: false
+  xy: 540, 568
+  size: 143, 71
+  orig: 190, 114
+  offset: 32, 19
+  index: -1
+tx_renyan_00022
+  rotate: true
+  xy: 754, 24
+  size: 141, 71
+  orig: 190, 114
+  offset: 33, 18
+  index: -1
+tx_renyan_00024
+  rotate: false
+  xy: 540, 496
+  size: 143, 70
+  orig: 190, 114
+  offset: 33, 18
+  index: -1
+tx_renyan_00026
+  rotate: false
+  xy: 532, 32
+  size: 147, 71
+  orig: 190, 114
+  offset: 33, 17
+  index: -1
+tx_renyan_00028
+  rotate: false
+  xy: 681, 167
+  size: 149, 71
+  orig: 190, 114
+  offset: 33, 17
+  index: -1

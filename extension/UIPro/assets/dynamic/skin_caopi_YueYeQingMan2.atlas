@@ -1,0 +1,216 @@
+
+skin_caopi_YueYeQingMan2.png
+size: 856,856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caopi_erduo
+  rotate: false
+  xy: 840, 357
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+caopi_lian
+  rotate: false
+  xy: 746, 53
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+caopi_lingzi1
+  rotate: false
+  xy: 2, 2
+  size: 116, 92
+  orig: 116, 92
+  offset: 0, 0
+  index: -1
+caopi_lingzi2
+  rotate: false
+  xy: 707, 293
+  size: 93, 188
+  orig: 93, 188
+  offset: 0, 0
+  index: -1
+caopi_lingzi3
+  rotate: false
+  xy: 746, 128
+  size: 54, 163
+  orig: 54, 165
+  offset: 0, 2
+  index: -1
+caopi_qianbai
+  rotate: false
+  xy: 586, 588
+  size: 231, 266
+  orig: 231, 266
+  offset: 0, 0
+  index: -1
+caopi_shenti
+  rotate: false
+  xy: 2, 96
+  size: 470, 419
+  orig: 471, 419
+  offset: 1, 0
+  index: -1
+caopi_touding
+  rotate: false
+  xy: 120, 2
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: -1
+caopi_toufa1
+  rotate: true
+  xy: 376, 2
+  size: 17, 61
+  orig: 20, 61
+  offset: 3, 0
+  index: -1
+caopi_toufa1_1
+  rotate: false
+  xy: 819, 784
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+caopi_toufa2
+  rotate: false
+  xy: 512, 11
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+caopi_toufa3
+  rotate: true
+  xy: 466, 2
+  size: 32, 44
+  orig: 34, 45
+  offset: 2, 0
+  index: -1
+caopi_toufa4
+  rotate: false
+  xy: 802, 382
+  size: 42, 99
+  orig: 44, 99
+  offset: 2, 0
+  index: -1
+caopi_toufa5
+  rotate: false
+  xy: 802, 283
+  size: 36, 97
+  orig: 36, 97
+  offset: 0, 0
+  index: -1
+caopi_touguan2
+  rotate: true
+  xy: 578, 37
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+caopi_touguandai
+  rotate: false
+  xy: 819, 735
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+caopi_youdabi
+  rotate: false
+  xy: 376, 21
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+caopi_youjianjia1
+  rotate: true
+  xy: 669, 42
+  size: 64, 70
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+caopi_youshou
+  rotate: false
+  xy: 2, 517
+  size: 582, 337
+  orig: 586, 337
+  offset: 0, 0
+  index: -1
+caopi_youyibai
+  rotate: true
+  xy: 582, 108
+  size: 116, 162
+  orig: 116, 162
+  offset: 0, 0
+  index: -1
+caopi_zuobi
+  rotate: true
+  xy: 586, 483
+  size: 103, 236
+  orig: 103, 236
+  offset: 0, 0
+  index: -1
+caopi_zuobi2
+  rotate: false
+  xy: 582, 226
+  size: 123, 255
+  orig: 123, 255
+  offset: 0, 0
+  index: -1
+caopi_zuojianjia1
+  rotate: true
+  xy: 474, 36
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+caopi_zuoshou
+  rotate: true
+  xy: 802, 230
+  size: 51, 29
+  orig: 53, 30
+  offset: 0, 1
+  index: -1
+caopi_zuoyibai
+  rotate: false
+  xy: 474, 136
+  size: 106, 379
+  orig: 106, 380
+  offset: 0, 1
+  index: -1
+idle/1_00000
+  rotate: false
+  xy: 802, 144
+  size: 40, 39
+  orig: 48, 51
+  offset: 2, 9
+  index: -1
+idle/glow_00000
+  rotate: true
+  xy: 844, 174
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+idle/you_00000
+  rotate: false
+  xy: 707, 252
+  size: 37, 39
+  orig: 39, 41
+  offset: 1, 1
+  index: -1
+idle/zuo_00000
+  rotate: false
+  xy: 802, 185
+  size: 42, 43
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+zhenji_guang
+  rotate: true
+  xy: 207, 12
+  size: 82, 167
+  orig: 84, 168
+  offset: 1, 0
+  index: -1

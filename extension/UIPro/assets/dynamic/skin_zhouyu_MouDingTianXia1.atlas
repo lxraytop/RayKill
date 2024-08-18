@@ -1,0 +1,1238 @@
+
+skin_zhouyu_MouDingTianXia1.png
+size: 2033,2033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1806, 1674
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_022
+  rotate: false
+  xy: 1560, 237
+  size: 212, 138
+  orig: 225, 200
+  offset: 13, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_025
+  rotate: false
+  xy: 1560, 377
+  size: 214, 125
+  orig: 225, 198
+  offset: 11, 13
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_028
+  rotate: false
+  xy: 1280, 242
+  size: 215, 125
+  orig: 225, 198
+  offset: 10, 13
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_031
+  rotate: false
+  xy: 933, 247
+  size: 218, 125
+  orig: 225, 198
+  offset: 7, 13
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_034
+  rotate: false
+  xy: 933, 374
+  size: 219, 121
+  orig: 225, 198
+  offset: 5, 19
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_037
+  rotate: true
+  xy: 1154, 242
+  size: 220, 124
+  orig: 225, 162
+  offset: 4, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_040
+  rotate: true
+  xy: 563, 239
+  size: 223, 124
+  orig: 225, 160
+  offset: 1, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_043
+  rotate: true
+  xy: 315, 237
+  size: 225, 126
+  orig: 226, 160
+  offset: 0, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_046
+  rotate: true
+  xy: 1027, 698
+  size: 227, 128
+  orig: 231, 159
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_049
+  rotate: true
+  xy: 1033, 6
+  size: 229, 136
+  orig: 234, 159
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_052
+  rotate: true
+  xy: 893, 6
+  size: 229, 138
+  orig: 237, 159
+  offset: 1, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_055
+  rotate: true
+  xy: 379, 6
+  size: 229, 139
+  orig: 237, 157
+  offset: 1, 2
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_058
+  rotate: true
+  xy: 1171, 6
+  size: 229, 125
+  orig: 237, 153
+  offset: 1, 15
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_061
+  rotate: true
+  xy: 1029, 927
+  size: 229, 126
+  orig: 239, 128
+  offset: 1, 2
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_064
+  rotate: true
+  xy: 126, 5
+  size: 230, 125
+  orig: 246, 128
+  offset: 3, 3
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_067
+  rotate: true
+  xy: 2, 2
+  size: 233, 122
+  orig: 252, 128
+  offset: 3, 6
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_070
+  rotate: true
+  xy: 520, 2
+  size: 234, 121
+  orig: 255, 128
+  offset: 3, 7
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_073
+  rotate: true
+  xy: 769, 2
+  size: 236, 122
+  orig: 258, 130
+  offset: 3, 7
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_076
+  rotate: false
+  xy: 1776, 332
+  size: 236, 123
+  orig: 258, 133
+  offset: 3, 9
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_079
+  rotate: true
+  xy: 643, 2
+  size: 235, 124
+  orig: 258, 135
+  offset: 3, 11
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_082
+  rotate: true
+  xy: 253, 5
+  size: 230, 124
+  orig: 257, 135
+  offset: 4, 11
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_085
+  rotate: true
+  xy: 1298, 7
+  size: 228, 118
+  orig: 252, 135
+  offset: 4, 17
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_088
+  rotate: true
+  xy: 1559, 8
+  size: 227, 118
+  orig: 245, 136
+  offset: 0, 18
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_091
+  rotate: true
+  xy: 443, 238
+  size: 224, 118
+  orig: 246, 138
+  offset: 1, 19
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_094
+  rotate: true
+  xy: 689, 240
+  size: 222, 120
+  orig: 246, 147
+  offset: 1, 23
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_a/ZhouYu_idle_front_a_097
+  rotate: true
+  xy: 811, 240
+  size: 222, 120
+  orig: 248, 148
+  offset: 1, 25
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_001
+  rotate: true
+  xy: 1973, 293
+  size: 37, 42
+  orig: 44, 42
+  offset: 7, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_002
+  rotate: true
+  xy: 1973, 254
+  size: 37, 42
+  orig: 44, 48
+  offset: 7, 4
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_003
+  rotate: false
+  xy: 44, 251
+  size: 38, 46
+  orig: 44, 47
+  offset: 6, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_004
+  rotate: false
+  xy: 1497, 248
+  size: 39, 42
+  orig: 44, 46
+  offset: 5, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_005
+  rotate: false
+  xy: 1817, 128
+  size: 39, 41
+  orig: 43, 44
+  offset: 4, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_006
+  rotate: false
+  xy: 1818, 172
+  size: 39, 41
+  orig: 42, 42
+  offset: 3, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_007
+  rotate: true
+  xy: 1858, 130
+  size: 40, 35
+  orig: 41, 40
+  offset: 1, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_008
+  rotate: true
+  xy: 1822, 42
+  size: 41, 35
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_009
+  rotate: true
+  xy: 1859, 43
+  size: 40, 36
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_010
+  rotate: true
+  xy: 1679, 2
+  size: 34, 42
+  orig: 36, 49
+  offset: 2, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_011
+  rotate: false
+  xy: 1855, 85
+  size: 35, 41
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_012
+  rotate: true
+  xy: 1497, 292
+  size: 36, 43
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_013
+  rotate: false
+  xy: 1779, 127
+  size: 36, 42
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_014
+  rotate: true
+  xy: 1973, 215
+  size: 37, 42
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_015
+  rotate: false
+  xy: 1779, 83
+  size: 36, 42
+  orig: 40, 43
+  offset: 0, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_016
+  rotate: true
+  xy: 1795, 2
+  size: 36, 41
+  orig: 40, 44
+  offset: 0, 3
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_017
+  rotate: false
+  xy: 897, 507
+  size: 34, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_018
+  rotate: true
+  xy: 709, 475
+  size: 40, 47
+  orig: 40, 48
+  offset: 0, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_019
+  rotate: true
+  xy: 1506, 104
+  size: 40, 47
+  orig: 40, 49
+  offset: 0, 2
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_020
+  rotate: true
+  xy: 1506, 62
+  size: 40, 47
+  orig: 40, 51
+  offset: 0, 4
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_021
+  rotate: true
+  xy: 1506, 20
+  size: 40, 47
+  orig: 40, 53
+  offset: 0, 6
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_022
+  rotate: false
+  xy: 2, 251
+  size: 40, 46
+  orig: 40, 54
+  offset: 0, 8
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_023
+  rotate: false
+  xy: 1880, 2
+  size: 39, 39
+  orig: 40, 40
+  offset: 0, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_024
+  rotate: false
+  xy: 668, 467
+  size: 39, 29
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_025
+  rotate: true
+  xy: 1897, 47
+  size: 39, 29
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_026
+  rotate: true
+  xy: 1921, 8
+  size: 37, 29
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_027
+  rotate: false
+  xy: 1933, 204
+  size: 37, 36
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_028
+  rotate: false
+  xy: 1779, 40
+  size: 41, 41
+  orig: 44, 51
+  offset: 3, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_029
+  rotate: false
+  xy: 287, 1067
+  size: 41, 42
+  orig: 44, 51
+  offset: 3, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_030
+  rotate: false
+  xy: 652, 1178
+  size: 42, 43
+  orig: 44, 51
+  offset: 2, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_031
+  rotate: false
+  xy: 696, 1178
+  size: 42, 43
+  orig: 43, 49
+  offset: 1, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_032
+  rotate: false
+  xy: 287, 1158
+  size: 41, 45
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_033
+  rotate: false
+  xy: 287, 1111
+  size: 41, 45
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_034
+  rotate: false
+  xy: 122, 252
+  size: 40, 45
+  orig: 41, 46
+  offset: 0, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_035
+  rotate: false
+  xy: 1928, 51
+  size: 33, 35
+  orig: 38, 41
+  offset: 5, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_036
+  rotate: false
+  xy: 897, 470
+  size: 34, 35
+  orig: 37, 39
+  offset: 3, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_037
+  rotate: false
+  xy: 1760, 2
+  size: 33, 34
+  orig: 35, 47
+  offset: 2, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_038
+  rotate: true
+  xy: 1723, 2
+  size: 34, 35
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_039
+  rotate: true
+  xy: 1895, 132
+  size: 39, 36
+  orig: 44, 46
+  offset: 5, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_040
+  rotate: false
+  xy: 1838, 3
+  size: 40, 37
+  orig: 45, 45
+  offset: 5, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_041
+  rotate: true
+  xy: 1779, 171
+  size: 42, 37
+  orig: 47, 43
+  offset: 5, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_042
+  rotate: false
+  xy: 1497, 330
+  size: 43, 37
+  orig: 48, 41
+  offset: 5, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_043
+  rotate: true
+  xy: 250, 254
+  size: 43, 38
+  orig: 48, 39
+  offset: 5, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_044
+  rotate: true
+  xy: 164, 254
+  size: 43, 39
+  orig: 47, 40
+  offset: 4, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_045
+  rotate: false
+  xy: 205, 260
+  size: 43, 39
+  orig: 46, 40
+  offset: 3, 1
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_046
+  rotate: false
+  xy: 1859, 173
+  size: 35, 40
+  orig: 46, 43
+  offset: 11, 3
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_047
+  rotate: false
+  xy: 1892, 88
+  size: 35, 40
+  orig: 45, 45
+  offset: 10, 5
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_048
+  rotate: false
+  xy: 1896, 174
+  size: 35, 39
+  orig: 45, 47
+  offset: 10, 8
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_049
+  rotate: false
+  xy: 84, 251
+  size: 36, 46
+  orig: 44, 49
+  offset: 8, 3
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_c/ZhouYu_idle_front_c_050
+  rotate: false
+  xy: 1817, 85
+  size: 36, 41
+  orig: 44, 42
+  offset: 8, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_001
+  rotate: true
+  xy: 1603, 949
+  size: 174, 99
+  orig: 175, 103
+  offset: 1, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_002
+  rotate: true
+  xy: 1418, 3
+  size: 141, 86
+  orig: 174, 93
+  offset: 1, 7
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_003
+  rotate: false
+  xy: 759, 465
+  size: 136, 88
+  orig: 167, 104
+  offset: 3, 10
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_004
+  rotate: false
+  xy: 1154, 464
+  size: 142, 98
+  orig: 174, 104
+  offset: 3, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_005
+  rotate: false
+  xy: 1157, 684
+  size: 162, 99
+  orig: 207, 107
+  offset: 22, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_006
+  rotate: true
+  xy: 1603, 781
+  size: 166, 99
+  orig: 207, 119
+  offset: 18, 6
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_007
+  rotate: true
+  xy: 1679, 38
+  size: 197, 98
+  orig: 207, 119
+  offset: 10, 6
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_008
+  rotate: false
+  xy: 1158, 1307
+  size: 182, 99
+  orig: 194, 127
+  offset: 11, 4
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_009
+  rotate: false
+  xy: 1158, 1210
+  size: 179, 95
+  orig: 198, 127
+  offset: 15, 4
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_010
+  rotate: false
+  xy: 1157, 940
+  size: 177, 95
+  orig: 184, 116
+  offset: 7, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_011
+  rotate: false
+  xy: 1158, 1408
+  size: 182, 100
+  orig: 199, 112
+  offset: 16, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_012
+  rotate: false
+  xy: 582, 566
+  size: 146, 94
+  orig: 194, 99
+  offset: 14, 0
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_d/ZhouYu_idle_front_d_013
+  rotate: false
+  xy: 1418, 146
+  size: 139, 94
+  orig: 188, 115
+  offset: 14, 7
+  index: -1
+eff/2_ZhouYu_daiji_front/ZhouYu_idle_front_e/ZhouYu_idle_BianGuang_a
+  rotate: false
+  xy: 1714, 1303
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+eff/ZY_Birth_front/ZY_ChuXian_qian_JiaoGuang
+  rotate: true
+  xy: 1704, 1247
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_001
+  rotate: false
+  xy: 265, 368
+  size: 48, 67
+  orig: 63, 69
+  offset: 15, 2
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_002
+  rotate: false
+  xy: 267, 572
+  size: 49, 66
+  orig: 63, 67
+  offset: 14, 1
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_003
+  rotate: false
+  xy: 265, 299
+  size: 48, 67
+  orig: 63, 68
+  offset: 15, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_004
+  rotate: true
+  xy: 689, 517
+  size: 47, 68
+  orig: 63, 70
+  offset: 16, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_005
+  rotate: true
+  xy: 1696, 504
+  size: 47, 69
+  orig: 63, 72
+  offset: 16, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_006
+  rotate: true
+  xy: 1704, 751
+  size: 46, 70
+  orig: 63, 73
+  offset: 17, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_007
+  rotate: true
+  xy: 1699, 595
+  size: 45, 70
+  orig: 63, 73
+  offset: 18, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_008
+  rotate: true
+  xy: 1704, 974
+  size: 45, 72
+  orig: 63, 74
+  offset: 18, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_009
+  rotate: true
+  xy: 1704, 1021
+  size: 47, 72
+  orig: 63, 75
+  offset: 16, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_010
+  rotate: true
+  xy: 1704, 1109
+  size: 48, 73
+  orig: 63, 75
+  offset: 15, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_011
+  rotate: true
+  xy: 1704, 1159
+  size: 49, 73
+  orig: 63, 75
+  offset: 14, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_012
+  rotate: false
+  xy: 600, 1178
+  size: 50, 72
+  orig: 63, 74
+  offset: 13, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_013
+  rotate: false
+  xy: 267, 711
+  size: 50, 71
+  orig: 61, 73
+  offset: 11, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_014
+  rotate: false
+  xy: 1780, 1692
+  size: 51, 71
+  orig: 60, 73
+  offset: 9, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_015
+  rotate: false
+  xy: 267, 640
+  size: 50, 69
+  orig: 58, 72
+  offset: 8, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_016
+  rotate: false
+  xy: 269, 915
+  size: 54, 67
+  orig: 55, 71
+  offset: 1, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_017
+  rotate: false
+  xy: 269, 847
+  size: 54, 66
+  orig: 58, 70
+  offset: 1, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_018
+  rotate: true
+  xy: 1714, 1473
+  size: 55, 64
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_019
+  rotate: false
+  xy: 269, 784
+  size: 54, 61
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_020
+  rotate: false
+  xy: 1780, 1765
+  size: 52, 61
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_021
+  rotate: true
+  xy: 1714, 1421
+  size: 50, 64
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_022
+  rotate: true
+  xy: 1714, 1370
+  size: 49, 64
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_023
+  rotate: false
+  xy: 628, 498
+  size: 46, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_024
+  rotate: false
+  xy: 582, 497
+  size: 44, 67
+  orig: 54, 68
+  offset: 0, 1
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_025
+  rotate: false
+  xy: 287, 1205
+  size: 41, 68
+  orig: 50, 70
+  offset: 0, 2
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_026
+  rotate: true
+  xy: 1696, 553
+  size: 40, 70
+  orig: 50, 73
+  offset: 0, 3
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_027
+  rotate: true
+  xy: 1704, 893
+  size: 39, 71
+  orig: 51, 75
+  offset: 0, 4
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_028
+  rotate: true
+  xy: 1704, 934
+  size: 38, 72
+  orig: 51, 77
+  offset: 0, 5
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_029
+  rotate: true
+  xy: 1704, 1070
+  size: 37, 73
+  orig: 51, 79
+  offset: 0, 6
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_030
+  rotate: true
+  xy: 1704, 1210
+  size: 35, 74
+  orig: 51, 81
+  offset: 0, 7
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_031
+  rotate: true
+  xy: 1699, 714
+  size: 35, 75
+  orig: 51, 82
+  offset: 0, 7
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_032
+  rotate: true
+  xy: 1699, 678
+  size: 34, 75
+  orig: 51, 82
+  offset: 0, 7
+  index: -1
+eff/ZY_Birth_front/b/ZY_ChuXian_qian_Yan_033
+  rotate: true
+  xy: 1699, 642
+  size: 34, 75
+  orig: 52, 82
+  offset: 0, 7
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_001
+  rotate: true
+  xy: 330, 1001
+  size: 249, 268
+  orig: 258, 271
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_003
+  rotate: true
+  xy: 1331, 619
+  size: 247, 259
+  orig: 258, 272
+  offset: 1, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_005
+  rotate: true
+  xy: 1305, 369
+  size: 248, 253
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_007
+  rotate: true
+  xy: 1776, 457
+  size: 251, 255
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_009
+  rotate: false
+  xy: 1778, 710
+  size: 253, 259
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_011
+  rotate: true
+  xy: 2, 301
+  size: 251, 261
+  orig: 256, 272
+  offset: 2, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_013
+  rotate: true
+  xy: 2, 554
+  size: 255, 263
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_015
+  rotate: true
+  xy: 325, 747
+  size: 252, 264
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_017
+  rotate: false
+  xy: 1780, 971
+  size: 251, 265
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_019
+  rotate: true
+  xy: 762, 1068
+  size: 252, 265
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_021
+  rotate: true
+  xy: 761, 812
+  size: 254, 264
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_023
+  rotate: true
+  xy: 1338, 868
+  size: 255, 263
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_025
+  rotate: true
+  xy: 759, 555
+  size: 255, 263
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_027
+  rotate: true
+  xy: 319, 490
+  size: 255, 261
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+eff/ZY_attack_behind/ZhouYu_attack_behind_029
+  rotate: true
+  xy: 2, 811
+  size: 255, 265
+  orig: 258, 272
+  offset: 0, 0
+  index: -1
+zhouyu_di01
+  rotate: false
+  xy: 269, 984
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+zhouyu_glow
+  rotate: false
+  xy: 767, 1655
+  size: 580, 376
+  orig: 580, 376
+  offset: 0, 0
+  index: -1
+zhouyu_jian
+  rotate: false
+  xy: 1780, 1238
+  size: 251, 345
+  orig: 251, 345
+  offset: 0, 0
+  index: -1
+zhouyu_jianjia01
+  rotate: true
+  xy: 591, 662
+  size: 134, 162
+  orig: 134, 162
+  offset: 0, 0
+  index: -1
+zhouyu_jianjia02
+  rotate: false
+  xy: 1835, 1857
+  size: 195, 174
+  orig: 196, 174
+  offset: 1, 0
+  index: -1
+zhouyu_lian01
+  rotate: true
+  xy: 1592, 530
+  size: 96, 102
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+zhouyu_pifeng01
+  rotate: false
+  xy: 2, 1391
+  size: 763, 640
+  orig: 764, 640
+  offset: 0, 0
+  index: -1
+zhouyu_pifeng02
+  rotate: true
+  xy: 1347, 1351
+  size: 177, 365
+  orig: 178, 365
+  offset: 0, 0
+  index: -1
+zhouyu_pifeng03
+  rotate: false
+  xy: 767, 1322
+  size: 389, 331
+  orig: 390, 332
+  offset: 1, 1
+  index: -1
+zhouyu_qunbai01
+  rotate: false
+  xy: 1156, 564
+  size: 147, 118
+  orig: 147, 118
+  offset: 0, 0
+  index: -1
+zhouyu_shenti
+  rotate: true
+  xy: 2, 1068
+  size: 205, 283
+  orig: 206, 283
+  offset: 1, 0
+  index: -1
+zhouyu_toufa003
+  rotate: true
+  xy: 933, 507
+  size: 46, 85
+  orig: 46, 85
+  offset: 0, 0
+  index: -1
+zhouyu_toufa004
+  rotate: false
+  xy: 1158, 1037
+  size: 178, 171
+  orig: 179, 172
+  offset: 0, 1
+  index: -1
+zhouyu_toufa01
+  rotate: true
+  xy: 2, 1275
+  size: 114, 326
+  orig: 114, 326
+  offset: 0, 0
+  index: -1
+zhouyu_toufa02
+  rotate: false
+  xy: 1560, 529
+  size: 30, 88
+  orig: 30, 89
+  offset: 0, 0
+  index: -1
+zhouyu_toufa03
+  rotate: true
+  xy: 582, 465
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+zhouyu_toufa04
+  rotate: false
+  xy: 265, 437
+  size: 48, 95
+  orig: 48, 95
+  offset: 0, 0
+  index: -1
+zhouyu_toufa05
+  rotate: true
+  xy: 1835, 1585
+  size: 270, 188
+  orig: 272, 188
+  offset: 1, 0
+  index: -1
+zhouyu_toufa111
+  rotate: false
+  xy: 655, 1223
+  size: 105, 166
+  orig: 110, 168
+  offset: 5, 2
+  index: -1
+zhouyu_toujiao01
+  rotate: false
+  xy: 1029, 1158
+  size: 127, 162
+  orig: 128, 162
+  offset: 1, 0
+  index: -1
+zhouyu_toukui
+  rotate: true
+  xy: 1349, 1530
+  size: 296, 429
+  orig: 301, 438
+  offset: 0, 9
+  index: -1
+zhouyu_toukuimao01
+  rotate: true
+  xy: 1774, 242
+  size: 88, 197
+  orig: 88, 198
+  offset: 0, 1
+  index: -1
+zhouyu_toukuimao02
+  rotate: false
+  xy: 1780, 1587
+  size: 24, 103
+  orig: 24, 103
+  offset: 0, 0
+  index: -1
+zhouyu_toukuimao03
+  rotate: true
+  xy: 1024, 600
+  size: 96, 130
+  orig: 96, 130
+  offset: 0, 0
+  index: -1
+zhouyu_yaodai
+  rotate: false
+  xy: 1158, 1510
+  size: 187, 143
+  orig: 188, 143
+  offset: 1, 0
+  index: -1
+zhouyu_youbi01
+  rotate: true
+  xy: 600, 1041
+  size: 135, 159
+  orig: 137, 160
+  offset: 2, 0
+  index: -1
+zhouyu_youhuwan01
+  rotate: false
+  xy: 1024, 497
+  size: 128, 101
+  orig: 128, 101
+  offset: 0, 0
+  index: -1
+zhouyu_youshou01
+  rotate: true
+  xy: 1704, 799
+  size: 92, 70
+  orig: 92, 70
+  offset: 0, 0
+  index: -1
+zhouyu_youshou04
+  rotate: false
+  xy: 267, 534
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+zhouyu_youtui
+  rotate: false
+  xy: 1349, 1828
+  size: 484, 203
+  orig: 484, 263
+  offset: 0, 59
+  index: -1
+zhouyu_zuobi01
+  rotate: true
+  xy: 1157, 785
+  size: 153, 172
+  orig: 153, 172
+  offset: 0, 0
+  index: -1
+zhouyu_zuobi02
+  rotate: true
+  xy: 600, 926
+  size: 113, 157
+  orig: 123, 157
+  offset: 0, 0
+  index: -1
+zhouyu_zuoshou01
+  rotate: false
+  xy: 1592, 628
+  size: 105, 151
+  orig: 105, 151
+  offset: 0, 0
+  index: -1
+zhouyu_zuotui01
+  rotate: true
+  xy: 330, 1252
+  size: 137, 323
+  orig: 137, 331
+  offset: 0, 0
+  index: -1
+zhouyu_zuotui02
+  rotate: false
+  xy: 1342, 1125
+  size: 360, 224
+  orig: 361, 225
+  offset: 1, 1
+  index: -1
+zhouyu_zuotuijia01
+  rotate: false
+  xy: 591, 798
+  size: 166, 126
+  orig: 166, 126
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+skin_jiangwei_FengHuoLuanShi2.png
+size: 580,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiangwei_paiodai01
+  rotate: false
+  xy: 445, 204
+  size: 106, 77
+  orig: 106, 77
+  offset: 0, 0
+  index: -1
+jiangwei_paiodai02
+  rotate: false
+  xy: 232, 34
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+jiangwei_pifeng02
+  rotate: false
+  xy: 2, 204
+  size: 295, 374
+  orig: 295, 374
+  offset: 0, 0
+  index: -1
+jiangwei_shenti
+  rotate: true
+  xy: 2, 53
+  size: 149, 228
+  orig: 149, 228
+  offset: 0, 0
+  index: -1
+jiangwei_shenti_fuben/jiangwei_shenti_fuben_00
+  rotate: false
+  xy: 299, 350
+  size: 149, 228
+  orig: 149, 228
+  offset: 0, 0
+  index: -1
+jiangwei_shouzhi01
+  rotate: false
+  xy: 395, 83
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+jiangwei_tou02
+  rotate: true
+  xy: 440, 117
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+jiangwei_toufa02
+  rotate: true
+  xy: 106, 23
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+jiangwei_toufa03
+  rotate: true
+  xy: 54, 9
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+jiangwei_toufa04
+  rotate: true
+  xy: 548, 176
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+jiangwei_toushi02
+  rotate: false
+  xy: 495, 86
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+jiangwei_youdabi
+  rotate: true
+  xy: 232, 94
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+jiangwei_youshou
+  rotate: false
+  xy: 439, 62
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+jiangwei_youshouzhi02
+  rotate: false
+  xy: 169, 24
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+jiangwei_youxiaobi
+  rotate: true
+  xy: 2, 7
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+jiangwei_zuodabi
+  rotate: false
+  xy: 299, 228
+  size: 144, 120
+  orig: 144, 120
+  offset: 0, 0
+  index: -1
+jiangwei_zuojianku
+  rotate: false
+  xy: 331, 121
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+jiangwei_zuojianku03/jiangwei_zuojianku03_00
+  rotate: false
+  xy: 450, 283
+  size: 107, 105
+  orig: 107, 105
+  offset: 0, 0
+  index: -1
+jiangwei_zuoxiaobi
+  rotate: false
+  xy: 450, 485
+  size: 120, 93
+  orig: 120, 93
+  offset: 0, 0
+  index: -1
+jiangwei_zuoxiaobi03/jiangwei_zuoxiaobi03_00
+  rotate: false
+  xy: 450, 390
+  size: 120, 93
+  orig: 120, 93
+  offset: 0, 0
+  index: -1
+jiangweu_pifeng02
+  rotate: false
+  xy: 331, 61
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1

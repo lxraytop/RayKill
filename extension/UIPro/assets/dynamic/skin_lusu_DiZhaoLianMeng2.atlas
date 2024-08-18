@@ -1,0 +1,1014 @@
+
+skin_lusu_DiZhaoLianMeng2.png
+size: 974,974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 228, 412
+  size: 76, 110
+  orig: 76, 110
+  offset: 0, 0
+  index: -1
+bu1
+  rotate: false
+  xy: 340, 412
+  size: 71, 76
+  orig: 75, 79
+  offset: 3, 0
+  index: -1
+daizi1
+  rotate: true
+  xy: 761, 682
+  size: 41, 98
+  orig: 41, 98
+  offset: 0, 0
+  index: -1
+daizi2
+  rotate: false
+  xy: 435, 534
+  size: 82, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+daizi3
+  rotate: false
+  xy: 420, 853
+  size: 264, 119
+  orig: 264, 119
+  offset: 0, 0
+  index: -1
+daizi4
+  rotate: true
+  xy: 132, 195
+  size: 77, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 65, 21
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+qunbai1
+  rotate: false
+  xy: 2, 404
+  size: 224, 221
+  orig: 224, 221
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 627
+  size: 416, 345
+  orig: 416, 345
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 132, 274
+  size: 91, 128
+  orig: 91, 128
+  offset: 0, 0
+  index: -1
+toudai1
+  rotate: true
+  xy: 2, 21
+  size: 185, 61
+  orig: 185, 61
+  offset: 0, 0
+  index: -1
+toudai2
+  rotate: false
+  xy: 420, 775
+  size: 230, 76
+  orig: 230, 76
+  offset: 0, 0
+  index: -1
+tx/daiji/glow_yao_001
+  rotate: true
+  xy: 519, 529
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_002
+  rotate: false
+  xy: 112, 128
+  size: 108, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_003
+  rotate: false
+  xy: 693, 730
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_004
+  rotate: false
+  xy: 802, 792
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_005
+  rotate: false
+  xy: 802, 725
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_006
+  rotate: false
+  xy: 652, 663
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_007
+  rotate: false
+  xy: 112, 61
+  size: 108, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_008
+  rotate: true
+  xy: 586, 552
+  size: 108, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_009
+  rotate: true
+  xy: 653, 553
+  size: 108, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_010
+  rotate: true
+  xy: 719, 553
+  size: 108, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_011
+  rotate: true
+  xy: 222, 85
+  size: 108, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_012
+  rotate: false
+  xy: 228, 346
+  size: 108, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_013
+  rotate: false
+  xy: 225, 280
+  size: 108, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_014
+  rotate: true
+  xy: 288, 104
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_015
+  rotate: false
+  xy: 338, 346
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_016
+  rotate: false
+  xy: 335, 280
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_017
+  rotate: true
+  xy: 421, 104
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 5
+  index: -1
+tx/daiji/glow_yao_018
+  rotate: false
+  xy: 239, 213
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_019
+  rotate: false
+  xy: 348, 213
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_020
+  rotate: true
+  xy: 354, 104
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_021
+  rotate: false
+  xy: 693, 797
+  size: 107, 66
+  orig: 120, 90
+  offset: 0, 3
+  index: -1
+tx/daiji/glow_yao_022
+  rotate: false
+  xy: 288, 38
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 3
+  index: -1
+tx/daiji/glow_yao_023
+  rotate: false
+  xy: 397, 38
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 3
+  index: -1
+tx/daiji/glow_yao_024
+  rotate: false
+  xy: 653, 487
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 3
+  index: -1
+tx/daiji/glow_yao_025
+  rotate: false
+  xy: 653, 421
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 3
+  index: -1
+tx/daiji/glow_yao_026
+  rotate: true
+  xy: 762, 444
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 3
+  index: -1
+tx/daiji/glow_yao_027
+  rotate: true
+  xy: 852, 573
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 3
+  index: -1
+tx/daiji/glow_yao_028
+  rotate: true
+  xy: 895, 464
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_029
+  rotate: false
+  xy: 828, 398
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_030
+  rotate: true
+  xy: 762, 335
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_031
+  rotate: false
+  xy: 828, 332
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_032
+  rotate: false
+  xy: 447, 354
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_033
+  rotate: false
+  xy: 447, 288
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_034
+  rotate: false
+  xy: 457, 222
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_035
+  rotate: true
+  xy: 487, 113
+  size: 107, 64
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_036
+  rotate: true
+  xy: 586, 443
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_037
+  rotate: true
+  xy: 785, 573
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_038
+  rotate: true
+  xy: 828, 464
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_039
+  rotate: true
+  xy: 435, 425
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yao_040
+  rotate: true
+  xy: 502, 420
+  size: 107, 65
+  orig: 120, 90
+  offset: 0, 4
+  index: -1
+tx/daiji/glow_yiling_001
+  rotate: false
+  xy: 807, 18
+  size: 24, 27
+  orig: 38, 38
+  offset: 4, 7
+  index: -1
+tx/daiji/glow_yiling_002
+  rotate: true
+  xy: 778, 20
+  size: 25, 27
+  orig: 38, 38
+  offset: 4, 7
+  index: -1
+tx/daiji/glow_yiling_003
+  rotate: false
+  xy: 722, 360
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_004
+  rotate: false
+  xy: 722, 330
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_005
+  rotate: false
+  xy: 911, 725
+  size: 26, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_006
+  rotate: true
+  xy: 246, 2
+  size: 26, 29
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_007
+  rotate: true
+  xy: 277, 2
+  size: 26, 29
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_008
+  rotate: true
+  xy: 214, 2
+  size: 26, 30
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_009
+  rotate: false
+  xy: 722, 390
+  size: 25, 29
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_010
+  rotate: false
+  xy: 937, 434
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_011
+  rotate: false
+  xy: 937, 404
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_012
+  rotate: false
+  xy: 937, 374
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_013
+  rotate: false
+  xy: 937, 344
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_014
+  rotate: false
+  xy: 939, 725
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_015
+  rotate: false
+  xy: 778, 77
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_016
+  rotate: false
+  xy: 778, 47
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_017
+  rotate: false
+  xy: 805, 77
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_018
+  rotate: false
+  xy: 805, 47
+  size: 25, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_019
+  rotate: false
+  xy: 946, 594
+  size: 26, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_020
+  rotate: false
+  xy: 926, 695
+  size: 26, 28
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_021
+  rotate: false
+  xy: 918, 593
+  size: 26, 29
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_022
+  rotate: false
+  xy: 308, 9
+  size: 25, 27
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_023
+  rotate: false
+  xy: 335, 9
+  size: 25, 27
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_024
+  rotate: false
+  xy: 362, 9
+  size: 25, 27
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_025
+  rotate: false
+  xy: 389, 9
+  size: 25, 27
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_026
+  rotate: false
+  xy: 416, 9
+  size: 25, 27
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_027
+  rotate: false
+  xy: 443, 9
+  size: 25, 27
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_028
+  rotate: false
+  xy: 470, 9
+  size: 25, 27
+  orig: 38, 38
+  offset: 4, 5
+  index: -1
+tx/daiji/glow_yiling_029
+  rotate: false
+  xy: 834, 106
+  size: 24, 26
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_030
+  rotate: false
+  xy: 886, 107
+  size: 24, 26
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_031
+  rotate: false
+  xy: 912, 107
+  size: 24, 26
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_032
+  rotate: false
+  xy: 832, 78
+  size: 24, 26
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_033
+  rotate: true
+  xy: 506, 27
+  size: 24, 27
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_034
+  rotate: false
+  xy: 834, 134
+  size: 24, 27
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_035
+  rotate: true
+  xy: 730, 191
+  size: 23, 27
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_036
+  rotate: false
+  xy: 860, 135
+  size: 24, 27
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_037
+  rotate: false
+  xy: 886, 135
+  size: 24, 27
+  orig: 38, 38
+  offset: 4, 6
+  index: -1
+tx/daiji/glow_yiling_038
+  rotate: false
+  xy: 832, 50
+  size: 24, 26
+  orig: 38, 38
+  offset: 4, 7
+  index: -1
+tx/daiji/glow_yiling_039
+  rotate: false
+  xy: 912, 135
+  size: 24, 27
+  orig: 38, 38
+  offset: 4, 7
+  index: -1
+tx/daiji/glow_yiling_040
+  rotate: false
+  xy: 860, 106
+  size: 24, 27
+  orig: 38, 38
+  offset: 4, 7
+  index: -1
+tx/daiji/glow_youshou_001
+  rotate: false
+  xy: 566, 189
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_002
+  rotate: false
+  xy: 553, 132
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_003
+  rotate: false
+  xy: 558, 17
+  size: 53, 55
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_004
+  rotate: true
+  xy: 98, 6
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_005
+  rotate: true
+  xy: 156, 6
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_006
+  rotate: true
+  xy: 222, 30
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_007
+  rotate: false
+  xy: 556, 362
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_008
+  rotate: false
+  xy: 556, 304
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_009
+  rotate: false
+  xy: 566, 246
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_010
+  rotate: false
+  xy: 558, 74
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_011
+  rotate: false
+  xy: 613, 74
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_012
+  rotate: false
+  xy: 613, 16
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_013
+  rotate: false
+  xy: 611, 363
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_014
+  rotate: false
+  xy: 611, 305
+  size: 53, 56
+  orig: 77, 77
+  offset: 18, 10
+  index: -1
+tx/daiji/glow_youshou_015
+  rotate: false
+  xy: 621, 247
+  size: 52, 56
+  orig: 77, 77
+  offset: 19, 10
+  index: -1
+tx/daiji/glow_youshou_016
+  rotate: false
+  xy: 622, 189
+  size: 52, 56
+  orig: 77, 77
+  offset: 19, 10
+  index: -1
+tx/daiji/glow_youshou_017
+  rotate: false
+  xy: 675, 249
+  size: 52, 56
+  orig: 77, 77
+  offset: 19, 10
+  index: -1
+tx/daiji/glow_youshou_018
+  rotate: false
+  xy: 676, 191
+  size: 52, 56
+  orig: 77, 77
+  offset: 19, 10
+  index: -1
+tx/daiji/glow_youshou_019
+  rotate: false
+  xy: 668, 74
+  size: 52, 56
+  orig: 77, 77
+  offset: 19, 10
+  index: -1
+tx/daiji/glow_youshou_020
+  rotate: false
+  xy: 668, 16
+  size: 52, 56
+  orig: 77, 77
+  offset: 19, 10
+  index: -1
+tx/daiji/glow_youshou_021
+  rotate: false
+  xy: 918, 624
+  size: 54, 56
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_022
+  rotate: false
+  xy: 609, 132
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_023
+  rotate: false
+  xy: 666, 364
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_024
+  rotate: false
+  xy: 666, 307
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_025
+  rotate: false
+  xy: 665, 132
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_026
+  rotate: false
+  xy: 721, 134
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_027
+  rotate: false
+  xy: 722, 77
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_028
+  rotate: false
+  xy: 722, 20
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_029
+  rotate: false
+  xy: 729, 273
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_030
+  rotate: false
+  xy: 730, 216
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_031
+  rotate: false
+  xy: 785, 275
+  size: 54, 55
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_032
+  rotate: false
+  xy: 841, 276
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_033
+  rotate: false
+  xy: 786, 219
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_034
+  rotate: false
+  xy: 842, 220
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_035
+  rotate: false
+  xy: 897, 276
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_036
+  rotate: false
+  xy: 898, 220
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_037
+  rotate: false
+  xy: 786, 163
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_038
+  rotate: false
+  xy: 842, 164
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_039
+  rotate: false
+  xy: 898, 164
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+tx/daiji/glow_youshou_040
+  rotate: false
+  xy: 778, 107
+  size: 54, 54
+  orig: 77, 77
+  offset: 17, 10
+  index: -1
+yao2
+  rotate: false
+  xy: 861, 682
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+yao2yy
+  rotate: false
+  xy: 506, 53
+  size: 50, 58
+  orig: 50, 59
+  offset: 0, 1
+  index: -1
+yiiling3
+  rotate: false
+  xy: 911, 755
+  size: 50, 102
+  orig: 50, 102
+  offset: 0, 0
+  index: -1
+yiling
+  rotate: true
+  xy: 686, 865
+  size: 107, 141
+  orig: 107, 141
+  offset: 0, 0
+  index: -1
+yiling2
+  rotate: false
+  xy: 565, 662
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+youxiuzi1
+  rotate: true
+  xy: 829, 859
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+youxiuzi2
+  rotate: false
+  xy: 65, 74
+  size: 45, 132
+  orig: 45, 132
+  offset: 0, 0
+  index: -1
+youxiuzi3
+  rotate: false
+  xy: 652, 742
+  size: 39, 109
+  orig: 39, 109
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 208
+  size: 128, 194
+  orig: 128, 194
+  offset: 0, 0
+  index: -1
+zuoxiuzi1
+  rotate: false
+  xy: 228, 490
+  size: 144, 135
+  orig: 144, 135
+  offset: 0, 0
+  index: -1
+zuoxiuzi2
+  rotate: false
+  xy: 420, 638
+  size: 143, 135
+  orig: 143, 135
+  offset: 0, 0
+  index: -1
+zuoxiuzi3
+  rotate: false
+  xy: 374, 509
+  size: 59, 116
+  orig: 59, 116
+  offset: 0, 0
+  index: -1

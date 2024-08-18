@@ -1,0 +1,62 @@
+
+shouji2.png
+size: 1755,1755
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chusha_dandao_00000
+  rotate: false
+  xy: 2, 1378
+  size: 1158, 375
+  orig: 1366, 558
+  offset: 183, 55
+  index: -1
+chusha_dandao_00002
+  rotate: false
+  xy: 2, 1019
+  size: 1150, 357
+  orig: 1366, 558
+  offset: 165, 76
+  index: -1
+chusha_dandao_00004
+  rotate: false
+  xy: 2, 368
+  size: 998, 328
+  orig: 1366, 558
+  offset: 150, 94
+  index: -1
+chusha_dandao_00006
+  rotate: false
+  xy: 2, 698
+  size: 1034, 319
+  orig: 1366, 558
+  offset: 26, 94
+  index: -1
+chusha_dandao_00008
+  rotate: false
+  xy: 2, 92
+  size: 984, 274
+  orig: 1366, 558
+  offset: 61, 139
+  index: -1
+chusha_dandao_00010
+  rotate: true
+  xy: 1038, 2
+  size: 923, 278
+  orig: 1366, 558
+  offset: 109, 135
+  index: -1
+chusha_dandao_00012
+  rotate: true
+  xy: 1449, 835
+  size: 918, 281
+  orig: 1366, 558
+  offset: 97, 133
+  index: -1
+chusha_dandao_00014
+  rotate: true
+  xy: 1162, 927
+  size: 826, 285
+  orig: 1366, 558
+  offset: 174, 130
+  index: -1

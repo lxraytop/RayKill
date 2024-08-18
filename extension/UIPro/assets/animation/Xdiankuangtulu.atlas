@@ -1,0 +1,160 @@
+
+Xdiankuangtulu.png
+size: 2015,1676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: true
+  xy: 416, 4
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+diankuang_dian
+  rotate: false
+  xy: 926, 477
+  size: 600, 165
+  orig: 600, 165
+  offset: 0, 0
+  index: -1
+diguang
+  rotate: false
+  xy: 1211, 35
+  size: 463, 167
+  orig: 463, 167
+  offset: 0, 0
+  index: -1
+dingguang
+  rotate: false
+  xy: 2, 10
+  size: 412, 122
+  orig: 412, 122
+  offset: 0, 0
+  index: -1
+dizuo_00000
+  rotate: true
+  xy: 2, 1162
+  size: 512, 460
+  orig: 512, 460
+  offset: 0, 0
+  index: -1
+dizuo_00001
+  rotate: true
+  xy: 2, 648
+  size: 512, 460
+  orig: 512, 460
+  offset: 0, 0
+  index: -1
+dizuo_00002
+  rotate: true
+  xy: 2, 134
+  size: 512, 460
+  orig: 512, 460
+  offset: 0, 0
+  index: -1
+dizuo_00003
+  rotate: true
+  xy: 464, 1162
+  size: 512, 460
+  orig: 512, 460
+  offset: 0, 0
+  index: -1
+dizuo_00004
+  rotate: true
+  xy: 464, 648
+  size: 512, 460
+  orig: 512, 460
+  offset: 0, 0
+  index: -1
+dizuo_00005
+  rotate: true
+  xy: 464, 134
+  size: 512, 460
+  orig: 512, 460
+  offset: 0, 0
+  index: -1
+dizuo_00006
+  rotate: false
+  xy: 926, 1214
+  size: 512, 460
+  orig: 512, 460
+  offset: 0, 0
+  index: -1
+dizuo_00007
+  rotate: false
+  xy: 1440, 1214
+  size: 512, 460
+  orig: 512, 460
+  offset: 0, 0
+  index: -1
+dizuo_xunhuan_00000
+  rotate: false
+  xy: 926, 929
+  size: 400, 283
+  orig: 400, 283
+  offset: 0, 0
+  index: -1
+dizuo_xunhuan_00001
+  rotate: false
+  xy: 1328, 929
+  size: 400, 283
+  orig: 400, 283
+  offset: 0, 0
+  index: -1
+dizuo_xunhuan_00002
+  rotate: true
+  xy: 1730, 812
+  size: 400, 283
+  orig: 400, 283
+  offset: 0, 0
+  index: -1
+dizuo_xunhuan_00003
+  rotate: false
+  xy: 926, 644
+  size: 400, 283
+  orig: 400, 283
+  offset: 0, 0
+  index: -1
+dizuo_xunhuan_00004
+  rotate: false
+  xy: 1328, 644
+  size: 400, 283
+  orig: 400, 283
+  offset: 0, 0
+  index: -1
+dizuo_xunhuan_00005
+  rotate: true
+  xy: 1730, 410
+  size: 400, 283
+  orig: 400, 283
+  offset: 0, 0
+  index: -1
+dizuo_xunhuan_00006
+  rotate: true
+  xy: 926, 8
+  size: 400, 283
+  orig: 400, 283
+  offset: 0, 0
+  index: -1
+dizuo_xunhuan_00007
+  rotate: true
+  xy: 1728, 8
+  size: 400, 283
+  orig: 400, 283
+  offset: 0, 0
+  index: -1
+heidi
+  rotate: false
+  xy: 2, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 1528, 204
+  size: 198, 438
+  orig: 198, 438
+  offset: 0, 0
+  index: -1

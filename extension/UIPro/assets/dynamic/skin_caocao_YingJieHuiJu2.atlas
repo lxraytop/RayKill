@@ -1,0 +1,118 @@
+
+skin_caocao_YingJieHuiJu2.png
+size: 709,709
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc_hongying
+  rotate: false
+  xy: 353, 82
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+cc_shenti
+  rotate: false
+  xy: 2, 278
+  size: 272, 429
+  orig: 272, 429
+  offset: 0, 0
+  index: -1
+cc_tou
+  rotate: false
+  xy: 617, 55
+  size: 71, 130
+  orig: 71, 130
+  offset: 0, 0
+  index: -1
+cc_weilong2
+  rotate: false
+  xy: 276, 419
+  size: 375, 288
+  orig: 375, 288
+  offset: 0, 0
+  index: -1
+cc_youjiandai
+  rotate: false
+  xy: 653, 429
+  size: 38, 278
+  orig: 38, 278
+  offset: 0, 0
+  index: -1
+cc_youjianjia1
+  rotate: false
+  xy: 228, 193
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+cc_youjianjia2
+  rotate: false
+  xy: 228, 221
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+cc_youjianjia3
+  rotate: true
+  xy: 200, 27
+  size: 102, 50
+  orig: 102, 50
+  offset: 0, 0
+  index: -1
+cc_youjianjia4
+  rotate: false
+  xy: 252, 73
+  size: 99, 76
+  orig: 99, 76
+  offset: 0, 0
+  index: -1
+cc_youwaitao
+  rotate: true
+  xy: 276, 279
+  size: 138, 410
+  orig: 138, 410
+  offset: 0, 0
+  index: -1
+cc_youxiuzi3
+  rotate: false
+  xy: 448, 54
+  size: 167, 131
+  orig: 167, 131
+  offset: 0, 0
+  index: -1
+cc_zuoijandai
+  rotate: true
+  xy: 228, 151
+  size: 34, 218
+  orig: 34, 218
+  offset: 0, 0
+  index: -1
+cc_zuojianjia
+  rotate: true
+  xy: 252, 2
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+cc_zuowaitao
+  rotate: true
+  xy: 276, 187
+  size: 90, 388
+  orig: 90, 388
+  offset: 0, 0
+  index: -1
+cc_zuoxiuzi
+  rotate: true
+  xy: 2, 22
+  size: 107, 196
+  orig: 107, 196
+  offset: 0, 0
+  index: -1
+cc_zuoyiling
+  rotate: false
+  xy: 2, 131
+  size: 224, 145
+  orig: 224, 145
+  offset: 0, 0
+  index: -1

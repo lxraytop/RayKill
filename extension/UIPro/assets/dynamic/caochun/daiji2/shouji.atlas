@@ -1,0 +1,132 @@
+
+shouji.png
+size: 1822,1822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian01_00000
+  rotate: true
+  xy: 1512, 1435
+  size: 385, 308
+  orig: 675, 497
+  offset: 148, 91
+  index: -1
+baodian01_00002
+  rotate: true
+  xy: 1420, 801
+  size: 391, 321
+  orig: 675, 497
+  offset: 145, 80
+  index: -1
+baodian01_00004
+  rotate: false
+  xy: 1252, 128
+  size: 397, 330
+  orig: 675, 497
+  offset: 142, 73
+  index: -1
+baodian01_00006
+  rotate: false
+  xy: 1265, 460
+  size: 403, 339
+  orig: 675, 497
+  offset: 139, 66
+  index: -1
+baodian01_00008
+  rotate: false
+  xy: 850, 463
+  size: 413, 351
+  orig: 675, 497
+  offset: 137, 58
+  index: -1
+baodian01_00010
+  rotate: false
+  xy: 996, 816
+  size: 422, 376
+  orig: 675, 497
+  offset: 135, 52
+  index: -1
+baodian01_00012
+  rotate: true
+  xy: 451, 505
+  size: 430, 397
+  orig: 675, 497
+  offset: 133, 45
+  index: -1
+baodian01_00014
+  rotate: true
+  xy: 419, 60
+  size: 443, 416
+  orig: 675, 497
+  offset: 128, 37
+  index: -1
+baodian01_00016
+  rotate: false
+  xy: 2, 510
+  size: 447, 425
+  orig: 675, 497
+  offset: 126, 36
+  index: -1
+baodian01_00018
+  rotate: true
+  xy: 2, 60
+  size: 448, 415
+  orig: 675, 497
+  offset: 113, 51
+  index: -1
+baodian01_00020
+  rotate: false
+  xy: 545, 1394
+  size: 485, 426
+  orig: 675, 497
+  offset: 91, 45
+  index: -1
+baodian01_00022
+  rotate: false
+  xy: 2, 937
+  size: 529, 436
+  orig: 675, 497
+  offset: 68, 38
+  index: -1
+baodian01_00024
+  rotate: false
+  xy: 2, 1375
+  size: 541, 445
+  orig: 675, 497
+  offset: 42, 32
+  index: -1
+baodian01_00026
+  rotate: false
+  xy: 1032, 1428
+  size: 478, 392
+  orig: 675, 497
+  offset: 106, 32
+  index: -1
+baodian01_00028
+  rotate: false
+  xy: 545, 1042
+  size: 449, 350
+  orig: 675, 497
+  offset: 121, 62
+  index: -1
+baodian01_00030
+  rotate: false
+  xy: 837, 118
+  size: 413, 343
+  orig: 675, 497
+  offset: 128, 66
+  index: -1
+csb_2
+  rotate: false
+  xy: 1032, 1194
+  size: 612, 232
+  orig: 612, 232
+  offset: 0, 0
+  index: -1
+csb_3
+  rotate: true
+  xy: 1670, 484
+  size: 315, 131
+  orig: 315, 131
+  offset: 0, 0
+  index: -1

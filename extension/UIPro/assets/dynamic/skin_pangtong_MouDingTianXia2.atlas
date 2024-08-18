@@ -1,0 +1,97 @@
+
+skin_pangtong_MouDingTianXia2.png
+size: 976,976
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotong_daimao
+  rotate: true
+  xy: 2, 2
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+paotong_fengrchi
+  rotate: false
+  xy: 663, 429
+  size: 250, 545
+  orig: 250, 545
+  offset: 0, 0
+  index: -1
+paotong_fengshenti2
+  rotate: true
+  xy: 2, 21
+  size: 397, 513
+  orig: 402, 515
+  offset: 0, 1
+  index: -1
+paotong_fengxiati
+  rotate: false
+  xy: 2, 420
+  size: 659, 554
+  orig: 660, 554
+  offset: 0, 0
+  index: -1
+paotong_houdaizi
+  rotate: false
+  xy: 678, 106
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+paotong_qundai1
+  rotate: true
+  xy: 915, 807
+  size: 167, 35
+  orig: 167, 35
+  offset: 0, 0
+  index: -1
+paotong_r_xiuzi2
+  rotate: true
+  xy: 517, 146
+  size: 272, 250
+  orig: 272, 250
+  offset: 0, 0
+  index: -1
+paotong_shenti
+  rotate: false
+  xy: 769, 214
+  size: 197, 213
+  orig: 197, 213
+  offset: 0, 0
+  index: -1
+paotong_sidai4
+  rotate: true
+  xy: 915, 704
+  size: 101, 30
+  orig: 101, 30
+  offset: 0, 0
+  index: -1
+paotong_sidai5
+  rotate: false
+  xy: 517, 47
+  size: 105, 30
+  orig: 105, 30
+  offset: 0, 0
+  index: -1
+paotong_sidai6
+  rotate: false
+  xy: 517, 79
+  size: 159, 65
+  orig: 159, 65
+  offset: 0, 0
+  index: -1
+paotong_tou
+  rotate: true
+  xy: 861, 135
+  size: 77, 84
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+paotong_toudai2
+  rotate: false
+  xy: 769, 143
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1

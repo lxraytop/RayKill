@@ -1,0 +1,265 @@
+
+Xwushuangwanjunqushou.png
+size: 2039,1278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoliang_00000
+  rotate: false
+  xy: 1797, 515
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+baoliang_00001
+  rotate: false
+  xy: 1797, 272
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+baoliang_00002
+  rotate: false
+  xy: 1490, 255
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+baoliang_00003
+  rotate: false
+  xy: 1490, 12
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+baoliang_00004
+  rotate: false
+  xy: 1732, 29
+  size: 240, 241
+  orig: 240, 241
+  offset: 0, 0
+  index: -1
+heidi
+  rotate: false
+  xy: 309, 667
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+wushuang_00000
+  rotate: false
+  xy: 2, 1077
+  size: 381, 199
+  orig: 381, 199
+  offset: 0, 0
+  index: -1
+wushuang_00001
+  rotate: false
+  xy: 2, 876
+  size: 381, 199
+  orig: 381, 199
+  offset: 0, 0
+  index: -1
+wushuang_00002
+  rotate: false
+  xy: 385, 1077
+  size: 381, 199
+  orig: 381, 199
+  offset: 0, 0
+  index: -1
+wushuang_00003
+  rotate: false
+  xy: 2, 675
+  size: 381, 199
+  orig: 381, 199
+  offset: 0, 0
+  index: -1
+wushuang_00004
+  rotate: false
+  xy: 385, 876
+  size: 381, 199
+  orig: 381, 199
+  offset: 0, 0
+  index: -1
+wushuang_jun
+  rotate: true
+  xy: 2, 33
+  size: 120, 163
+  orig: 120, 163
+  offset: 0, 0
+  index: -1
+wushuang_qu
+  rotate: true
+  xy: 692, 627
+  size: 129, 146
+  orig: 129, 146
+  offset: 0, 0
+  index: -1
+wushuang_shou
+  rotate: true
+  xy: 167, 26
+  size: 127, 138
+  orig: 127, 138
+  offset: 0, 0
+  index: -1
+wushuang_shuang
+  rotate: false
+  xy: 1060, 62
+  size: 197, 174
+  orig: 197, 174
+  offset: 0, 0
+  index: -1
+wushuang_wan
+  rotate: false
+  xy: 1259, 97
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+wushuang_wu
+  rotate: false
+  xy: 876, 38
+  size: 182, 198
+  orig: 182, 198
+  offset: 0, 0
+  index: -1
+wushuanghuo_00000
+  rotate: false
+  xy: 768, 1018
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00001
+  rotate: false
+  xy: 2, 415
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00002
+  rotate: false
+  xy: 1075, 1018
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00003
+  rotate: false
+  xy: 2, 155
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00004
+  rotate: false
+  xy: 1382, 1018
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00005
+  rotate: false
+  xy: 1689, 1018
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00006
+  rotate: false
+  xy: 385, 616
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00007
+  rotate: false
+  xy: 309, 356
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00008
+  rotate: false
+  xy: 309, 96
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00009
+  rotate: false
+  xy: 768, 758
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00010
+  rotate: false
+  xy: 1075, 758
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00011
+  rotate: false
+  xy: 1382, 758
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00012
+  rotate: false
+  xy: 1689, 758
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00013
+  rotate: true
+  xy: 616, 309
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00014
+  rotate: true
+  xy: 616, 2
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00015
+  rotate: false
+  xy: 876, 498
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00016
+  rotate: false
+  xy: 876, 238
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00017
+  rotate: false
+  xy: 1183, 498
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00018
+  rotate: false
+  xy: 1183, 238
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1
+wushuanghuo_00019
+  rotate: false
+  xy: 1490, 498
+  size: 305, 258
+  orig: 305, 258
+  offset: 0, 0
+  index: -1

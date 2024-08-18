@@ -1,0 +1,9 @@
+extension["仙剑奇侠传"]={
+	intro:"",
+	author:"角完",
+	netdisk:"",
+	forum:"",
+	version:"1.0",
+	files:["pal_lixiaoyao.jpg","pal_zhaoliner.jpg","pal_anu.jpg","pal_liumengli.jpg","pal_yueqi.jpg","pal_luozhaoyan.jpg","pal_jushifang.jpg","pal_wangxiaohu.jpg","pal_nangonghuang.jpg","pal_longkui.jpg","pal_wenhui.jpg","pal_wangpengxu.jpg","pal_leiyuange.jpg","pal_yuntianhe.jpg","pal_hanlingsha.jpg","pal_jiangyunfan.jpg","pal_xuanxiao.jpg","pal_longyou.jpg","pal_muchanglan.jpg","pal_mingxiu.jpg","pal_xianqing.jpg","pal_sumei.jpg","pal_shenqishuang.jpg","pal_xuejian.jpg","pal_xiaoman.jpg","pal_xiahoujinxuan.jpg","pal_xia.jpg","pal_linyueru.jpg","pal_changqing.jpg","pal_zixuan.jpg","pal_xingxuan.jpg","pal_murongziying.jpg","pal_tangyurou.jpg","pal_yuejinzhao.jpg","pal_jiangcheng.jpg","pal_jingtian.jpg","LICENSE","LICENSE","pal_anu.jpg","pal_changqing.jpg","pal_hanlingsha.jpg","pal_jiangcheng.jpg","pal_jiangyunfan.jpg","pal_jingtian.jpg","pal_jushifang.jpg","pal_leiyuange.jpg","pal_linyueru.jpg","pal_liumengli.jpg","pal_lixiaoyao.jpg","pal_longkui.jpg","pal_longkuigui.jpg","pal_longyou.jpg","pal_luozhaoyan.jpg","pal_mingxiu.jpg","pal_muchanglan.jpg","pal_murongziying.jpg","pal_nangonghuang.jpg","pal_shenqishuang.jpg","pal_sumei.jpg","pal_tangyurou.jpg","pal_wangpengxu.jpg","pal_wangxiaohu.jpg","pal_wenhui.jpg","pal_xia.jpg","pal_xiahoujinxuan.jpg","pal_xianqing.jpg","pal_xiaoman.jpg","pal_xingxuan.jpg","pal_xuanxiao.jpg","pal_xuejian.jpg","pal_yuejinzhao.jpg","pal_yueqi.jpg","pal_yuntianhe.jpg","pal_zhaoliner.jpg","pal_zixuan.jpg"],
+	size:"15.1MB"
+};

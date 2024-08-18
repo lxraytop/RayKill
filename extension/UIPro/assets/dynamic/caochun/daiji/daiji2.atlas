@@ -1,0 +1,3940 @@
+
+daiji2.png
+size: 1365,1365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz
+  rotate: true
+  xy: 1228, 561
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 223, 363
+  size: 133, 87
+  orig: 133, 87
+  offset: 0, 0
+  index: -1
+d1_2
+  rotate: true
+  xy: 909, 793
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 776, 1203
+  size: 226, 160
+  orig: 227, 160
+  offset: 1, 0
+  index: -1
+daop1
+  rotate: false
+  xy: 537, 710
+  size: 139, 90
+  orig: 139, 101
+  offset: 0, 11
+  index: -1
+daop2
+  rotate: false
+  xy: 1058, 102
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+duzi
+  rotate: false
+  xy: 2, 624
+  size: 215, 310
+  orig: 215, 310
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 847, 271
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 678, 718
+  size: 76, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 904, 546
+  size: 58, 56
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 797, 394
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: true
+  xy: 1205, 1180
+  size: 95, 64
+  orig: 95, 65
+  offset: 0, 1
+  index: -1
+fa7
+  rotate: false
+  xy: 1004, 1173
+  size: 199, 102
+  orig: 200, 102
+  offset: 0, 0
+  index: -1
+h_l_ht
+  rotate: false
+  xy: 2, 936
+  size: 225, 427
+  orig: 225, 427
+  offset: 0, 0
+  index: -1
+h_pid
+  rotate: false
+  xy: 2, 2
+  size: 88, 49
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+h_shen1
+  rotate: true
+  xy: 1004, 1277
+  size: 86, 259
+  orig: 86, 260
+  offset: 0, 1
+  index: -1
+h_shen2
+  rotate: true
+  xy: 690, 874
+  size: 153, 65
+  orig: 153, 65
+  offset: 0, 0
+  index: -1
+h_st
+  rotate: false
+  xy: 229, 1008
+  size: 296, 355
+  orig: 296, 356
+  offset: 0, 1
+  index: -1
+h_xb
+  rotate: false
+  xy: 2, 53
+  size: 176, 155
+  orig: 176, 155
+  offset: 0, 0
+  index: -1
+h_yanbai1
+  rotate: true
+  xy: 714, 690
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+h_yanbai2
+  rotate: true
+  xy: 1327, 444
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+h_yanzhu1
+  rotate: true
+  xy: 1229, 1021
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+h_yanzhu2
+  rotate: true
+  xy: 1186, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+hutou
+  rotate: false
+  xy: 527, 1151
+  size: 247, 212
+  orig: 247, 212
+  offset: 0, 0
+  index: -1
+hutou_ya
+  rotate: false
+  xy: 690, 827
+  size: 65, 45
+  orig: 65, 48
+  offset: 0, 3
+  index: -1
+l2_h_shenz
+  rotate: false
+  xy: 1303, 1041
+  size: 33, 138
+  orig: 33, 138
+  offset: 0, 0
+  index: -1
+l2_shou
+  rotate: false
+  xy: 219, 719
+  size: 164, 142
+  orig: 164, 142
+  offset: 0, 0
+  index: -1
+l_deng
+  rotate: false
+  xy: 1271, 1181
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+l_dengh
+  rotate: false
+  xy: 858, 323
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+l_h_ed
+  rotate: false
+  xy: 904, 495
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+l_huzi
+  rotate: false
+  xy: 847, 419
+  size: 68, 61
+  orig: 69, 61
+  offset: 1, 0
+  index: -1
+l_jianm1
+  rotate: false
+  xy: 690, 764
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+l_jianm2
+  rotate: true
+  xy: 352, 160
+  size: 95, 149
+  orig: 95, 149
+  offset: 0, 0
+  index: -1
+l_s
+  rotate: true
+  xy: 219, 624
+  size: 93, 159
+  orig: 93, 159
+  offset: 0, 0
+  index: -1
+l_shou
+  rotate: true
+  xy: 1223, 458
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+l_tui
+  rotate: false
+  xy: 416, 851
+  size: 120, 155
+  orig: 131, 155
+  offset: 0, 0
+  index: -1
+l_xtui
+  rotate: false
+  xy: 223, 452
+  size: 134, 170
+  orig: 134, 170
+  offset: 0, 0
+  index: -1
+l_yb
+  rotate: false
+  xy: 1070, 25
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+l_yz
+  rotate: false
+  xy: 899, 318
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+linzi
+  rotate: true
+  xy: 570, 6
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+pd1
+  rotate: false
+  xy: 2, 383
+  size: 219, 239
+  orig: 223, 239
+  offset: 0, 0
+  index: -1
+pd2
+  rotate: false
+  xy: 922, 1029
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+pd3
+  rotate: false
+  xy: 1282, 491
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+pd4
+  rotate: false
+  xy: 1341, 1016
+  size: 22, 31
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+pd5
+  rotate: false
+  xy: 1101, 345
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+pd6
+  rotate: false
+  xy: 991, 305
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+pd7
+  rotate: true
+  xy: 385, 712
+  size: 137, 150
+  orig: 148, 150
+  offset: 0, 0
+  index: -1
+pid1
+  rotate: false
+  xy: 92, 2
+  size: 80, 49
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+pid2
+  rotate: false
+  xy: 906, 318
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+r_deng
+  rotate: false
+  xy: 797, 424
+  size: 48, 71
+  orig: 48, 72
+  offset: 0, 1
+  index: -1
+r_dengh
+  rotate: true
+  xy: 1327, 475
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+r_h_ed
+  rotate: false
+  xy: 964, 402
+  size: 70, 67
+  orig: 71, 68
+  offset: 1, 0
+  index: -1
+r_huzi
+  rotate: false
+  xy: 331, 2
+  size: 85, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+r_jianm1
+  rotate: false
+  xy: 1265, 1287
+  size: 86, 76
+  orig: 86, 78
+  offset: 0, 1
+  index: -1
+r_jianm2
+  rotate: false
+  xy: 510, 334
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+r_jianm3
+  rotate: false
+  xy: 1236, 419
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+r_shenz1
+  rotate: false
+  xy: 660, 617
+  size: 52, 91
+  orig: 52, 92
+  offset: 0, 1
+  index: -1
+r_shenzi2
+  rotate: true
+  xy: 890, 735
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+r_shou
+  rotate: true
+  xy: 1134, 393
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+r_shoub1
+  rotate: false
+  xy: 380, 592
+  size: 155, 118
+  orig: 156, 118
+  offset: 0, 0
+  index: -1
+r_tui
+  rotate: false
+  xy: 527, 1029
+  size: 210, 120
+  orig: 213, 120
+  offset: 3, 0
+  index: -1
+r_xtui
+  rotate: true
+  xy: 776, 1082
+  size: 119, 167
+  orig: 119, 167
+  offset: 0, 0
+  index: -1
+r_yb
+  rotate: false
+  xy: 904, 482
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+r_yz
+  rotate: false
+  xy: 797, 388
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 229, 863
+  size: 185, 143
+  orig: 185, 143
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 537, 605
+  size: 121, 103
+  orig: 121, 104
+  offset: 0, 1
+  index: -1
+vfx/daiji/cc_daiji_tx10_00
+  rotate: false
+  xy: 739, 19
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 33
+  index: -1
+vfx/daiji/cc_daiji_tx10_01
+  rotate: true
+  xy: 771, 19
+  size: 30, 28
+  orig: 90, 90
+  offset: 31, 32
+  index: -1
+vfx/daiji/cc_daiji_tx10_02
+  rotate: true
+  xy: 961, 318
+  size: 31, 28
+  orig: 90, 90
+  offset: 31, 31
+  index: -1
+vfx/daiji/cc_daiji_tx10_03
+  rotate: false
+  xy: 987, 274
+  size: 32, 29
+  orig: 90, 90
+  offset: 30, 29
+  index: -1
+vfx/daiji/cc_daiji_tx10_04
+  rotate: false
+  xy: 697, 50
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 28
+  index: -1
+vfx/daiji/cc_daiji_tx10_05
+  rotate: true
+  xy: 646, 6
+  size: 31, 28
+  orig: 90, 90
+  offset: 31, 29
+  index: -1
+vfx/daiji/cc_daiji_tx10_06
+  rotate: false
+  xy: 834, 24
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 29
+  index: -1
+vfx/daiji/cc_daiji_tx10_07
+  rotate: false
+  xy: 912, 195
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 29
+  index: -1
+vfx/daiji/cc_daiji_tx10_08
+  rotate: false
+  xy: 911, 164
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 29
+  index: -1
+vfx/daiji/cc_daiji_tx10_09
+  rotate: false
+  xy: 911, 133
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 29
+  index: -1
+vfx/daiji/cc_daiji_tx10_10
+  rotate: false
+  xy: 911, 102
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 29
+  index: -1
+vfx/daiji/cc_daiji_tx10_11
+  rotate: false
+  xy: 945, 221
+  size: 30, 28
+  orig: 90, 90
+  offset: 31, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_12
+  rotate: false
+  xy: 944, 191
+  size: 30, 28
+  orig: 90, 90
+  offset: 31, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_13
+  rotate: true
+  xy: 956, 25
+  size: 30, 28
+  orig: 90, 90
+  offset: 31, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_14
+  rotate: true
+  xy: 986, 25
+  size: 30, 28
+  orig: 90, 90
+  offset: 31, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_15
+  rotate: true
+  xy: 676, 14
+  size: 31, 28
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_16
+  rotate: false
+  xy: 730, 50
+  size: 31, 29
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_17
+  rotate: false
+  xy: 706, 19
+  size: 31, 29
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_18
+  rotate: false
+  xy: 801, 25
+  size: 31, 29
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_19
+  rotate: false
+  xy: 846, 226
+  size: 31, 29
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_20
+  rotate: false
+  xy: 846, 195
+  size: 31, 29
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_21
+  rotate: false
+  xy: 845, 164
+  size: 31, 29
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_22
+  rotate: false
+  xy: 897, 71
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_23
+  rotate: false
+  xy: 929, 71
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_24
+  rotate: false
+  xy: 845, 133
+  size: 31, 29
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_25
+  rotate: false
+  xy: 977, 216
+  size: 30, 28
+  orig: 90, 90
+  offset: 30, 30
+  index: -1
+vfx/daiji/cc_daiji_tx10_26
+  rotate: false
+  xy: 976, 186
+  size: 30, 28
+  orig: 90, 90
+  offset: 32, 32
+  index: -1
+vfx/daiji/cc_daiji_tx10_27
+  rotate: false
+  xy: 943, 160
+  size: 30, 29
+  orig: 90, 90
+  offset: 32, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_28
+  rotate: false
+  xy: 845, 102
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_29
+  rotate: false
+  xy: 943, 129
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_30
+  rotate: false
+  xy: 879, 226
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_31
+  rotate: false
+  xy: 961, 71
+  size: 30, 29
+  orig: 90, 90
+  offset: 32, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_32
+  rotate: false
+  xy: 993, 71
+  size: 30, 29
+  orig: 90, 90
+  offset: 32, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_33
+  rotate: true
+  xy: 1016, 25
+  size: 30, 29
+  orig: 90, 90
+  offset: 32, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_34
+  rotate: false
+  xy: 879, 195
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_35
+  rotate: false
+  xy: 878, 164
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_36
+  rotate: false
+  xy: 878, 133
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_37
+  rotate: false
+  xy: 878, 102
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_38
+  rotate: true
+  xy: 866, 24
+  size: 31, 28
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_39
+  rotate: true
+  xy: 896, 24
+  size: 31, 28
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_40
+  rotate: true
+  xy: 926, 24
+  size: 31, 28
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_41
+  rotate: false
+  xy: 1009, 216
+  size: 30, 28
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_42
+  rotate: false
+  xy: 975, 155
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_43
+  rotate: false
+  xy: 864, 71
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_44
+  rotate: false
+  xy: 1008, 186
+  size: 30, 28
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_45
+  rotate: false
+  xy: 1040, 186
+  size: 30, 28
+  orig: 90, 90
+  offset: 31, 34
+  index: -1
+vfx/daiji/cc_daiji_tx10_46
+  rotate: false
+  xy: 912, 226
+  size: 31, 29
+  orig: 90, 90
+  offset: 31, 33
+  index: -1
+vfx/daiji/cc_daiji_tx10_47
+  rotate: false
+  xy: 1025, 71
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 33
+  index: -1
+vfx/daiji/cc_daiji_tx10_48
+  rotate: false
+  xy: 1007, 155
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 33
+  index: -1
+vfx/daiji/cc_daiji_tx10_49
+  rotate: false
+  xy: 1039, 155
+  size: 30, 29
+  orig: 90, 90
+  offset: 31, 33
+  index: -1
+vfx/daiji/cc_daiji_tx12_00
+  rotate: true
+  xy: 943, 102
+  size: 25, 27
+  orig: 60, 60
+  offset: 16, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_01
+  rotate: true
+  xy: 972, 102
+  size: 25, 26
+  orig: 60, 60
+  offset: 16, 19
+  index: -1
+vfx/daiji/cc_daiji_tx12_02
+  rotate: true
+  xy: 1000, 102
+  size: 25, 26
+  orig: 60, 60
+  offset: 16, 19
+  index: -1
+vfx/daiji/cc_daiji_tx12_03
+  rotate: false
+  xy: 1101, 315
+  size: 26, 28
+  orig: 60, 60
+  offset: 15, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_04
+  rotate: true
+  xy: 1022, 246
+  size: 26, 28
+  orig: 60, 60
+  offset: 15, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_05
+  rotate: false
+  xy: 1086, 102
+  size: 26, 27
+  orig: 60, 60
+  offset: 15, 19
+  index: -1
+vfx/daiji/cc_daiji_tx12_06
+  rotate: true
+  xy: 1028, 102
+  size: 27, 28
+  orig: 60, 60
+  offset: 14, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_07
+  rotate: false
+  xy: 1073, 216
+  size: 26, 28
+  orig: 60, 60
+  offset: 15, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_08
+  rotate: false
+  xy: 1076, 283
+  size: 26, 28
+  orig: 60, 60
+  offset: 15, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_09
+  rotate: false
+  xy: 1161, 307
+  size: 26, 28
+  orig: 60, 60
+  offset: 15, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_10
+  rotate: true
+  xy: 1072, 340
+  size: 25, 27
+  orig: 60, 60
+  offset: 16, 19
+  index: -1
+vfx/daiji/cc_daiji_tx12_11
+  rotate: true
+  xy: 1072, 313
+  size: 25, 27
+  orig: 60, 60
+  offset: 16, 19
+  index: -1
+vfx/daiji/cc_daiji_tx12_12
+  rotate: false
+  xy: 1338, 1049
+  size: 25, 28
+  orig: 60, 60
+  offset: 16, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_13
+  rotate: false
+  xy: 763, 51
+  size: 25, 28
+  orig: 60, 60
+  offset: 16, 18
+  index: -1
+vfx/daiji/cc_daiji_tx12_14
+  rotate: true
+  xy: 1160, 280
+  size: 25, 27
+  orig: 60, 60
+  offset: 16, 19
+  index: -1
+vfx/daiji/cc_daiji_tx13_00
+  rotate: false
+  xy: 1236, 393
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+vfx/daiji/cc_daiji_tx14_00
+  rotate: false
+  xy: 1055, 483
+  size: 38, 36
+  orig: 90, 90
+  offset: 30, 27
+  index: -1
+vfx/daiji/cc_daiji_tx14_01
+  rotate: true
+  xy: 1327, 505
+  size: 38, 36
+  orig: 90, 90
+  offset: 30, 26
+  index: -1
+vfx/daiji/cc_daiji_tx14_02
+  rotate: false
+  xy: 1319, 329
+  size: 39, 37
+  orig: 90, 90
+  offset: 29, 25
+  index: -1
+vfx/daiji/cc_daiji_tx14_03
+  rotate: false
+  xy: 1319, 329
+  size: 39, 37
+  orig: 90, 90
+  offset: 29, 25
+  index: -1
+vfx/daiji/cc_daiji_tx14_04
+  rotate: true
+  xy: 1179, 393
+  size: 41, 39
+  orig: 90, 90
+  offset: 29, 24
+  index: -1
+vfx/daiji/cc_daiji_tx14_05
+  rotate: false
+  xy: 917, 399
+  size: 45, 40
+  orig: 90, 90
+  offset: 27, 24
+  index: -1
+vfx/daiji/cc_daiji_tx14_06
+  rotate: true
+  xy: 1261, 678
+  size: 45, 42
+  orig: 90, 90
+  offset: 27, 23
+  index: -1
+vfx/daiji/cc_daiji_tx14_07
+  rotate: false
+  xy: 1282, 528
+  size: 43, 43
+  orig: 90, 90
+  offset: 28, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_08
+  rotate: true
+  xy: 1156, 436
+  size: 42, 43
+  orig: 90, 90
+  offset: 27, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_09
+  rotate: true
+  xy: 1156, 436
+  size: 42, 43
+  orig: 90, 90
+  offset: 27, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_10
+  rotate: true
+  xy: 1082, 367
+  size: 39, 45
+  orig: 90, 90
+  offset: 29, 20
+  index: -1
+vfx/daiji/cc_daiji_tx14_11
+  rotate: true
+  xy: 1129, 352
+  size: 39, 43
+  orig: 90, 90
+  offset: 29, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_12
+  rotate: true
+  xy: 1174, 354
+  size: 37, 43
+  orig: 90, 90
+  offset: 28, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_13
+  rotate: false
+  xy: 1327, 635
+  size: 36, 43
+  orig: 90, 90
+  offset: 28, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_14
+  rotate: false
+  xy: 1327, 590
+  size: 36, 43
+  orig: 90, 90
+  offset: 28, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_15
+  rotate: false
+  xy: 1327, 545
+  size: 36, 43
+  orig: 90, 90
+  offset: 28, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_16
+  rotate: true
+  xy: 790, 56
+  size: 37, 43
+  orig: 90, 90
+  offset: 27, 22
+  index: -1
+vfx/daiji/cc_daiji_tx14_17
+  rotate: true
+  xy: 1275, 380
+  size: 35, 42
+  orig: 90, 90
+  offset: 28, 23
+  index: -1
+vfx/daiji/cc_daiji_tx14_18
+  rotate: true
+  xy: 1219, 356
+  size: 35, 42
+  orig: 90, 90
+  offset: 28, 23
+  index: -1
+vfx/daiji/cc_daiji_tx14_19
+  rotate: true
+  xy: 1320, 409
+  size: 33, 41
+  orig: 90, 90
+  offset: 30, 23
+  index: -1
+vfx/daiji/cc_daiji_tx15_00
+  rotate: false
+  xy: 352, 257
+  size: 147, 104
+  orig: 150, 150
+  offset: 0, 24
+  index: -1
+vfx/daiji/cc_daiji_tx15_01
+  rotate: true
+  xy: 1279, 573
+  size: 50, 46
+  orig: 150, 150
+  offset: 56, 51
+  index: -1
+vfx/daiji/cc_daiji_tx15_02
+  rotate: false
+  xy: 1275, 445
+  size: 50, 44
+  orig: 150, 150
+  offset: 56, 51
+  index: -1
+vfx/daiji/cc_daiji_tx15_03
+  rotate: true
+  xy: 1036, 419
+  size: 50, 44
+  orig: 150, 150
+  offset: 56, 51
+  index: -1
+vfx/daiji/cc_daiji_tx15_04
+  rotate: false
+  xy: 1082, 436
+  size: 50, 44
+  orig: 150, 150
+  offset: 56, 51
+  index: -1
+vfx/daiji/cc_daiji_tx15_05
+  rotate: true
+  xy: 1305, 680
+  size: 51, 46
+  orig: 150, 150
+  offset: 55, 49
+  index: -1
+vfx/daiji/cc_daiji_tx15_06
+  rotate: true
+  xy: 1276, 625
+  size: 51, 49
+  orig: 150, 150
+  offset: 55, 48
+  index: -1
+vfx/daiji/cc_daiji_tx15_07
+  rotate: false
+  xy: 866, 1029
+  size: 54, 51
+  orig: 150, 150
+  offset: 53, 47
+  index: -1
+vfx/daiji/cc_daiji_tx15_08
+  rotate: true
+  xy: 1227, 504
+  size: 55, 53
+  orig: 150, 150
+  offset: 53, 46
+  index: -1
+vfx/daiji/cc_daiji_tx15_09
+  rotate: true
+  xy: 790, 152
+  size: 55, 53
+  orig: 150, 150
+  offset: 53, 46
+  index: -1
+vfx/daiji/cc_daiji_tx15_10
+  rotate: false
+  xy: 789, 209
+  size: 55, 55
+  orig: 150, 150
+  offset: 53, 44
+  index: -1
+vfx/daiji/cc_daiji_tx15_11
+  rotate: false
+  xy: 790, 95
+  size: 53, 55
+  orig: 150, 150
+  offset: 53, 44
+  index: -1
+vfx/daiji/cc_daiji_tx15_12
+  rotate: false
+  xy: 756, 330
+  size: 52, 56
+  orig: 150, 150
+  offset: 52, 43
+  index: -1
+vfx/daiji/cc_daiji_tx15_13
+  rotate: false
+  xy: 1225, 618
+  size: 49, 58
+  orig: 150, 150
+  offset: 55, 42
+  index: -1
+vfx/daiji/cc_daiji_tx15_14
+  rotate: false
+  xy: 810, 337
+  size: 46, 55
+  orig: 150, 150
+  offset: 54, 45
+  index: -1
+vfx/daiji/cc_daiji_tx15_15
+  rotate: false
+  xy: 858, 362
+  size: 46, 55
+  orig: 150, 150
+  offset: 54, 45
+  index: -1
+vfx/daiji/cc_daiji_tx15_16
+  rotate: true
+  xy: 1203, 678
+  size: 45, 56
+  orig: 150, 150
+  offset: 54, 44
+  index: -1
+vfx/daiji/cc_daiji_tx15_17
+  rotate: true
+  xy: 906, 351
+  size: 46, 54
+  orig: 150, 150
+  offset: 53, 45
+  index: -1
+vfx/daiji/cc_daiji_tx15_18
+  rotate: false
+  xy: 917, 441
+  size: 45, 52
+  orig: 150, 150
+  offset: 53, 46
+  index: -1
+vfx/daiji/cc_daiji_tx15_19
+  rotate: true
+  xy: 899, 271
+  size: 45, 52
+  orig: 150, 150
+  offset: 53, 46
+  index: -1
+vfx/daiji/cc_daiji_tx1_30
+  rotate: false
+  xy: 180, 140
+  size: 4, 4
+  orig: 60, 60
+  offset: 19, 27
+  index: -1
+vfx/daiji/cc_daiji_tx1_31
+  rotate: true
+  xy: 418, 2
+  size: 5, 7
+  orig: 60, 60
+  offset: 19, 26
+  index: -1
+vfx/daiji/cc_daiji_tx1_32
+  rotate: true
+  xy: 745, 690
+  size: 6, 9
+  orig: 60, 60
+  offset: 19, 26
+  index: -1
+vfx/daiji/cc_daiji_tx1_33
+  rotate: false
+  xy: 1343, 119
+  size: 7, 10
+  orig: 60, 60
+  offset: 19, 26
+  index: -1
+vfx/daiji/cc_daiji_tx1_34
+  rotate: false
+  xy: 1072, 471
+  size: 8, 10
+  orig: 60, 60
+  offset: 19, 26
+  index: -1
+vfx/daiji/cc_daiji_tx1_35
+  rotate: true
+  xy: 1248, 104
+  size: 9, 11
+  orig: 60, 60
+  offset: 19, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_36
+  rotate: false
+  xy: 1263, 380
+  size: 10, 11
+  orig: 60, 60
+  offset: 19, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_37
+  rotate: true
+  xy: 1352, 95
+  size: 10, 11
+  orig: 60, 60
+  offset: 20, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_38
+  rotate: false
+  xy: 572, 592
+  size: 11, 11
+  orig: 60, 60
+  offset: 20, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_39
+  rotate: false
+  xy: 1261, 102
+  size: 11, 10
+  orig: 60, 60
+  offset: 21, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_40
+  rotate: false
+  xy: 1230, 92
+  size: 11, 10
+  orig: 60, 60
+  offset: 22, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_41
+  rotate: false
+  xy: 1269, 90
+  size: 10, 10
+  orig: 60, 60
+  offset: 23, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_42
+  rotate: true
+  xy: 1353, 680
+  size: 9, 10
+  orig: 60, 60
+  offset: 24, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_43
+  rotate: false
+  xy: 1300, 103
+  size: 9, 10
+  orig: 60, 60
+  offset: 24, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_44
+  rotate: false
+  xy: 1292, 91
+  size: 9, 10
+  orig: 60, 60
+  offset: 25, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_45
+  rotate: false
+  xy: 1209, 342
+  size: 8, 10
+  orig: 60, 60
+  offset: 26, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_46
+  rotate: true
+  xy: 1288, 103
+  size: 7, 10
+  orig: 60, 60
+  offset: 27, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_47
+  rotate: true
+  xy: 1353, 1287
+  size: 6, 10
+  orig: 60, 60
+  offset: 28, 25
+  index: -1
+vfx/daiji/cc_daiji_tx1_48
+  rotate: true
+  xy: 1205, 1173
+  size: 5, 9
+  orig: 60, 60
+  offset: 29, 26
+  index: -1
+vfx/daiji/cc_daiji_tx1_49
+  rotate: false
+  xy: 1265, 1277
+  size: 4, 8
+  orig: 60, 60
+  offset: 30, 26
+  index: -1
+vfx/daiji/cc_daiji_tx1_50
+  rotate: true
+  xy: 1131, 156
+  size: 3, 7
+  orig: 60, 60
+  offset: 31, 26
+  index: -1
+vfx/daiji/cc_daiji_tx1_51
+  rotate: true
+  xy: 739, 1082
+  size: 3, 7
+  orig: 60, 60
+  offset: 31, 26
+  index: -1
+vfx/daiji/cc_daiji_tx2_00
+  rotate: true
+  xy: 997, 1060
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+vfx/daiji/cc_daiji_tx3_00
+  rotate: false
+  xy: 537, 592
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_01
+  rotate: false
+  xy: 1303, 1028
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_02
+  rotate: false
+  xy: 586, 440
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_03
+  rotate: false
+  xy: 1201, 436
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_04
+  rotate: false
+  xy: 987, 260
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_05
+  rotate: false
+  xy: 847, 257
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_06
+  rotate: false
+  xy: 882, 257
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_07
+  rotate: false
+  xy: 917, 257
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_08
+  rotate: false
+  xy: 953, 264
+  size: 32, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_09
+  rotate: false
+  xy: 899, 57
+  size: 32, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_10
+  rotate: false
+  xy: 864, 57
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_11
+  rotate: true
+  xy: 1306, 345
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_12
+  rotate: false
+  xy: 952, 251
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_13
+  rotate: false
+  xy: 933, 57
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_14
+  rotate: true
+  xy: 890, 699
+  size: 34, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_15
+  rotate: false
+  xy: 1000, 370
+  size: 34, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_16
+  rotate: false
+  xy: 968, 57
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_17
+  rotate: false
+  xy: 1003, 57
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_18
+  rotate: false
+  xy: 987, 246
+  size: 33, 12
+  orig: 60, 60
+  offset: 13, 25
+  index: -1
+vfx/daiji/cc_daiji_tx3_19
+  rotate: true
+  xy: 1076, 67
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_20
+  rotate: false
+  xy: 1129, 339
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_21
+  rotate: true
+  xy: 1028, 301
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_22
+  rotate: false
+  xy: 1041, 300
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_23
+  rotate: false
+  xy: 1174, 341
+  size: 33, 11
+  orig: 60, 60
+  offset: 13, 26
+  index: -1
+vfx/daiji/cc_daiji_tx3_24
+  rotate: true
+  xy: 1353, 1330
+  size: 33, 10
+  orig: 60, 60
+  offset: 13, 27
+  index: -1
+vfx/daiji/cc_daiji_tx4_10
+  rotate: false
+  xy: 945, 251
+  size: 5, 4
+  orig: 90, 90
+  offset: 27, 52
+  index: -1
+vfx/daiji/cc_daiji_tx4_11
+  rotate: true
+  xy: 1104, 244
+  size: 7, 8
+  orig: 90, 90
+  offset: 27, 48
+  index: -1
+vfx/daiji/cc_daiji_tx4_12
+  rotate: false
+  xy: 1164, 337
+  size: 8, 13
+  orig: 90, 90
+  offset: 27, 44
+  index: -1
+vfx/daiji/cc_daiji_tx4_13
+  rotate: true
+  xy: 1055, 471
+  size: 10, 15
+  orig: 90, 90
+  offset: 27, 42
+  index: -1
+vfx/daiji/cc_daiji_tx4_14
+  rotate: false
+  xy: 1250, 337
+  size: 11, 17
+  orig: 90, 90
+  offset: 27, 40
+  index: -1
+vfx/daiji/cc_daiji_tx4_15
+  rotate: false
+  xy: 778, 472
+  size: 13, 23
+  orig: 90, 90
+  offset: 27, 34
+  index: -1
+vfx/daiji/cc_daiji_tx4_16
+  rotate: false
+  xy: 975, 129
+  size: 14, 24
+  orig: 90, 90
+  offset: 27, 33
+  index: -1
+vfx/daiji/cc_daiji_tx4_17
+  rotate: false
+  xy: 1176, 49
+  size: 16, 26
+  orig: 90, 90
+  offset: 27, 32
+  index: -1
+vfx/daiji/cc_daiji_tx4_18
+  rotate: true
+  xy: 1189, 227
+  size: 18, 27
+  orig: 90, 90
+  offset: 27, 32
+  index: -1
+vfx/daiji/cc_daiji_tx4_19
+  rotate: false
+  xy: 359, 593
+  size: 19, 29
+  orig: 90, 90
+  offset: 27, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_20
+  rotate: true
+  xy: 965, 1046
+  size: 21, 30
+  orig: 90, 90
+  offset: 27, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_21
+  rotate: true
+  xy: 801, 2
+  size: 21, 30
+  orig: 90, 90
+  offset: 28, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_22
+  rotate: false
+  xy: 1341, 984
+  size: 22, 30
+  orig: 90, 90
+  offset: 29, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_23
+  rotate: true
+  xy: 983, 2
+  size: 21, 30
+  orig: 90, 90
+  offset: 31, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_24
+  rotate: false
+  xy: 1341, 952
+  size: 22, 30
+  orig: 90, 90
+  offset: 32, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_25
+  rotate: true
+  xy: 1015, 2
+  size: 21, 30
+  orig: 90, 90
+  offset: 34, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_26
+  rotate: false
+  xy: 1341, 920
+  size: 22, 30
+  orig: 90, 90
+  offset: 35, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_27
+  rotate: false
+  xy: 1341, 888
+  size: 22, 30
+  orig: 90, 90
+  offset: 36, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_28
+  rotate: false
+  xy: 1047, 25
+  size: 21, 30
+  orig: 90, 90
+  offset: 38, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_29
+  rotate: false
+  xy: 1201, 449
+  size: 20, 29
+  orig: 90, 90
+  offset: 39, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_30
+  rotate: false
+  xy: 310, 30
+  size: 19, 29
+  orig: 90, 90
+  offset: 40, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_31
+  rotate: false
+  xy: 1057, 71
+  size: 17, 29
+  orig: 90, 90
+  offset: 42, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_32
+  rotate: true
+  xy: 1219, 338
+  size: 16, 29
+  orig: 90, 90
+  offset: 43, 31
+  index: -1
+vfx/daiji/cc_daiji_tx4_33
+  rotate: false
+  xy: 1247, 249
+  size: 14, 26
+  orig: 90, 90
+  offset: 45, 32
+  index: -1
+vfx/daiji/cc_daiji_tx4_34
+  rotate: false
+  xy: 991, 129
+  size: 13, 24
+  orig: 90, 90
+  offset: 46, 32
+  index: -1
+vfx/daiji/cc_daiji_tx4_35
+  rotate: false
+  xy: 1352, 143
+  size: 11, 22
+  orig: 90, 90
+  offset: 48, 33
+  index: -1
+vfx/daiji/cc_daiji_tx4_36
+  rotate: true
+  xy: 922, 1069
+  size: 11, 21
+  orig: 90, 90
+  offset: 49, 34
+  index: -1
+vfx/daiji/cc_daiji_tx4_37
+  rotate: false
+  xy: 1114, 243
+  size: 8, 8
+  orig: 90, 90
+  offset: 52, 46
+  index: -1
+vfx/daiji/cc_daiji_tx4_38
+  rotate: true
+  xy: 1284, 725
+  size: 6, 7
+  orig: 90, 90
+  offset: 54, 46
+  index: -1
+vfx/daiji/cc_daiji_tx4_39
+  rotate: false
+  xy: 1275, 496
+  size: 5, 6
+  orig: 90, 90
+  offset: 55, 46
+  index: -1
+vfx/daiji/cc_daiji_tx5_147
+  rotate: false
+  xy: 1149, 1038
+  size: 5, 6
+  orig: 90, 90
+  offset: 27, 48
+  index: -1
+vfx/daiji/cc_daiji_tx5_148
+  rotate: false
+  xy: 1342, 105
+  size: 8, 12
+  orig: 90, 90
+  offset: 26, 42
+  index: -1
+vfx/daiji/cc_daiji_tx5_149
+  rotate: false
+  xy: 965, 1029
+  size: 9, 15
+  orig: 90, 90
+  offset: 26, 39
+  index: -1
+vfx/daiji/cc_daiji_tx5_150
+  rotate: true
+  xy: 1164, 106
+  size: 11, 21
+  orig: 90, 90
+  offset: 26, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_151
+  rotate: false
+  xy: 1352, 120
+  size: 11, 21
+  orig: 90, 90
+  offset: 27, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_152
+  rotate: true
+  xy: 1294, 330
+  size: 13, 23
+  orig: 90, 90
+  offset: 27, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_153
+  rotate: false
+  xy: 1248, 222
+  size: 13, 25
+  orig: 90, 90
+  offset: 28, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_154
+  rotate: true
+  xy: 769, 2
+  size: 15, 26
+  orig: 90, 90
+  offset: 28, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_155
+  rotate: true
+  xy: 1159, 230
+  size: 18, 28
+  orig: 90, 90
+  offset: 27, 32
+  index: -1
+vfx/daiji/cc_daiji_tx5_156
+  rotate: false
+  xy: 180, 146
+  size: 19, 29
+  orig: 90, 90
+  offset: 27, 32
+  index: -1
+vfx/daiji/cc_daiji_tx5_157
+  rotate: false
+  xy: 1052, 246
+  size: 21, 29
+  orig: 90, 90
+  offset: 27, 32
+  index: -1
+vfx/daiji/cc_daiji_tx5_158
+  rotate: true
+  xy: 1047, 2
+  size: 21, 30
+  orig: 90, 90
+  offset: 28, 32
+  index: -1
+vfx/daiji/cc_daiji_tx5_159
+  rotate: true
+  xy: 1006, 131
+  size: 22, 30
+  orig: 90, 90
+  offset: 29, 32
+  index: -1
+vfx/daiji/cc_daiji_tx5_160
+  rotate: true
+  xy: 1041, 277
+  size: 21, 30
+  orig: 90, 90
+  offset: 31, 32
+  index: -1
+vfx/daiji/cc_daiji_tx5_161
+  rotate: true
+  xy: 1038, 131
+  size: 22, 30
+  orig: 90, 90
+  offset: 32, 32
+  index: -1
+vfx/daiji/cc_daiji_tx5_162
+  rotate: false
+  xy: 1104, 253
+  size: 21, 29
+  orig: 90, 90
+  offset: 34, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_163
+  rotate: true
+  xy: 1070, 131
+  size: 22, 29
+  orig: 90, 90
+  offset: 35, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_164
+  rotate: false
+  xy: 1104, 284
+  size: 22, 29
+  orig: 90, 90
+  offset: 36, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_165
+  rotate: true
+  xy: 1263, 329
+  size: 21, 29
+  orig: 90, 90
+  offset: 38, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_166
+  rotate: true
+  xy: 962, 351
+  size: 20, 29
+  orig: 90, 90
+  offset: 39, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_167
+  rotate: false
+  xy: 1344, 857
+  size: 19, 29
+  orig: 90, 90
+  offset: 40, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_168
+  rotate: true
+  xy: 1128, 232
+  size: 17, 29
+  orig: 90, 90
+  offset: 42, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_169
+  rotate: true
+  xy: 1218, 227
+  size: 16, 28
+  orig: 90, 90
+  offset: 43, 33
+  index: -1
+vfx/daiji/cc_daiji_tx5_170
+  rotate: false
+  xy: 1278, 121
+  size: 13, 25
+  orig: 90, 90
+  offset: 45, 34
+  index: -1
+vfx/daiji/cc_daiji_tx5_171
+  rotate: false
+  xy: 1352, 167
+  size: 11, 23
+  orig: 90, 90
+  offset: 47, 34
+  index: -1
+vfx/daiji/cc_daiji_tx5_172
+  rotate: true
+  xy: 1311, 102
+  size: 9, 10
+  orig: 90, 90
+  offset: 49, 46
+  index: -1
+vfx/daiji/cc_daiji_tx5_173
+  rotate: false
+  xy: 1101, 214
+  size: 7, 8
+  orig: 90, 90
+  offset: 51, 47
+  index: -1
+vfx/daiji/cc_daiji_tx5_174
+  rotate: true
+  xy: 1293, 725
+  size: 6, 7
+  orig: 90, 90
+  offset: 52, 47
+  index: -1
+vfx/daiji/cc_daiji_tx5_175
+  rotate: false
+  xy: 174, 45
+  size: 4, 6
+  orig: 90, 90
+  offset: 54, 47
+  index: -1
+vfx/daiji/cc_daiji_tx5_176
+  rotate: false
+  xy: 380, 712
+  size: 3, 5
+  orig: 90, 90
+  offset: 55, 47
+  index: -1
+vfx/daiji/cc_daiji_tx6_01
+  rotate: false
+  xy: 1223, 1173
+  size: 4, 5
+  orig: 90, 90
+  offset: 26, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_02
+  rotate: false
+  xy: 845, 95
+  size: 5, 5
+  orig: 90, 90
+  offset: 26, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_03
+  rotate: false
+  xy: 1358, 1280
+  size: 5, 5
+  orig: 90, 90
+  offset: 26, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_04
+  rotate: false
+  xy: 219, 863
+  size: 6, 5
+  orig: 90, 90
+  offset: 26, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_05
+  rotate: false
+  xy: 810, 330
+  size: 6, 5
+  orig: 90, 90
+  offset: 26, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_06
+  rotate: true
+  xy: 1033, 361
+  size: 7, 6
+  orig: 90, 90
+  offset: 26, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_07
+  rotate: true
+  xy: 1033, 352
+  size: 7, 6
+  orig: 90, 90
+  offset: 26, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_08
+  rotate: false
+  xy: 694, 710
+  size: 8, 6
+  orig: 90, 90
+  offset: 26, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_09
+  rotate: false
+  xy: 704, 710
+  size: 8, 6
+  orig: 90, 90
+  offset: 26, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_10
+  rotate: false
+  xy: 665, 39
+  size: 9, 6
+  orig: 90, 90
+  offset: 26, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_11
+  rotate: false
+  xy: 1273, 725
+  size: 9, 6
+  orig: 90, 90
+  offset: 26, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_12
+  rotate: false
+  xy: 1311, 93
+  size: 10, 7
+  orig: 90, 90
+  offset: 26, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_13
+  rotate: false
+  xy: 1251, 82
+  size: 9, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_14
+  rotate: false
+  xy: 1323, 93
+  size: 10, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_15
+  rotate: false
+  xy: 1223, 449
+  size: 11, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_16
+  rotate: false
+  xy: 1225, 83
+  size: 11, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_17
+  rotate: false
+  xy: 1238, 83
+  size: 11, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_18
+  rotate: false
+  xy: 890, 690
+  size: 12, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_19
+  rotate: false
+  xy: 1274, 103
+  size: 12, 7
+  orig: 90, 90
+  offset: 28, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_20
+  rotate: false
+  xy: 1323, 1181
+  size: 13, 7
+  orig: 90, 90
+  offset: 28, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_21
+  rotate: false
+  xy: 1278, 112
+  size: 13, 7
+  orig: 90, 90
+  offset: 28, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_22
+  rotate: false
+  xy: 1261, 114
+  size: 15, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_23
+  rotate: true
+  xy: 1186, 12
+  size: 15, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_24
+  rotate: false
+  xy: 1196, 100
+  size: 16, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_25
+  rotate: true
+  xy: 1187, 100
+  size: 17, 7
+  orig: 90, 90
+  offset: 27, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_26
+  rotate: true
+  xy: 219, 870
+  size: 16, 8
+  orig: 90, 90
+  offset: 28, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_27
+  rotate: true
+  xy: 219, 888
+  size: 17, 8
+  orig: 90, 90
+  offset: 28, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_28
+  rotate: false
+  xy: 631, 334
+  size: 17, 8
+  orig: 90, 90
+  offset: 28, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_29
+  rotate: true
+  xy: 906, 399
+  size: 18, 9
+  orig: 90, 90
+  offset: 28, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_30
+  rotate: true
+  xy: 745, 698
+  size: 18, 9
+  orig: 90, 90
+  offset: 28, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_31
+  rotate: false
+  xy: 890, 793
+  size: 17, 9
+  orig: 90, 90
+  offset: 29, 51
+  index: -1
+vfx/daiji/cc_daiji_tx6_32
+  rotate: true
+  xy: 1187, 81
+  size: 17, 9
+  orig: 90, 90
+  offset: 30, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_33
+  rotate: false
+  xy: 1196, 109
+  size: 16, 9
+  orig: 90, 90
+  offset: 31, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_34
+  rotate: true
+  xy: 1198, 83
+  size: 15, 9
+  orig: 90, 90
+  offset: 32, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_35
+  rotate: true
+  xy: 1313, 113
+  size: 15, 9
+  orig: 90, 90
+  offset: 32, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_36
+  rotate: false
+  xy: 1214, 94
+  size: 14, 9
+  orig: 90, 90
+  offset: 33, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_37
+  rotate: false
+  xy: 1209, 83
+  size: 14, 9
+  orig: 90, 90
+  offset: 34, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_38
+  rotate: false
+  xy: 964, 695
+  size: 13, 9
+  orig: 90, 90
+  offset: 35, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_39
+  rotate: true
+  xy: 847, 323
+  size: 12, 9
+  orig: 90, 90
+  offset: 36, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_40
+  rotate: false
+  xy: 1256, 91
+  size: 11, 9
+  orig: 90, 90
+  offset: 37, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_41
+  rotate: true
+  xy: 1281, 90
+  size: 11, 9
+  orig: 90, 90
+  offset: 37, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_42
+  rotate: false
+  xy: 1323, 102
+  size: 10, 9
+  orig: 90, 90
+  offset: 38, 52
+  index: -1
+vfx/daiji/cc_daiji_tx6_43
+  rotate: false
+  xy: 1311, 83
+  size: 9, 8
+  orig: 90, 90
+  offset: 39, 53
+  index: -1
+vfx/daiji/cc_daiji_tx6_44
+  rotate: false
+  xy: 1322, 83
+  size: 9, 8
+  orig: 90, 90
+  offset: 40, 53
+  index: -1
+vfx/daiji/cc_daiji_tx6_45
+  rotate: false
+  xy: 1101, 234
+  size: 8, 8
+  orig: 90, 90
+  offset: 41, 53
+  index: -1
+vfx/daiji/cc_daiji_tx6_46
+  rotate: false
+  xy: 1111, 234
+  size: 7, 7
+  orig: 90, 90
+  offset: 42, 54
+  index: -1
+vfx/daiji/cc_daiji_tx6_47
+  rotate: false
+  xy: 1303, 95
+  size: 6, 6
+  orig: 90, 90
+  offset: 43, 55
+  index: -1
+vfx/daiji/cc_daiji_tx6_48
+  rotate: false
+  xy: 1303, 87
+  size: 6, 6
+  orig: 90, 90
+  offset: 43, 55
+  index: -1
+vfx/daiji/cc_daiji_tx6_49
+  rotate: false
+  xy: 1294, 345
+  size: 5, 5
+  orig: 90, 90
+  offset: 44, 56
+  index: -1
+vfx/daiji/cc_daiji_tx6_50
+  rotate: false
+  xy: 1216, 1173
+  size: 5, 5
+  orig: 90, 90
+  offset: 44, 56
+  index: -1
+vfx/daiji/cc_daiji_tx6_51
+  rotate: false
+  xy: 1129, 403
+  size: 3, 3
+  orig: 90, 90
+  offset: 45, 57
+  index: -1
+vfx/daiji/cc_daiji_tx6_52
+  rotate: false
+  xy: 570, 82
+  size: 1, 1
+  orig: 90, 90
+  offset: 46, 58
+  index: -1
+vfx/daiji/cc_daiji_tx7_20
+  rotate: false
+  xy: 1238, 1021
+  size: 5, 5
+  orig: 90, 90
+  offset: 29, 40
+  index: -1
+vfx/daiji/cc_daiji_tx7_21
+  rotate: true
+  xy: 1033, 343
+  size: 7, 6
+  orig: 90, 90
+  offset: 29, 40
+  index: -1
+vfx/daiji/cc_daiji_tx7_22
+  rotate: true
+  xy: 1333, 83
+  size: 8, 9
+  orig: 90, 90
+  offset: 29, 40
+  index: -1
+vfx/daiji/cc_daiji_tx7_23
+  rotate: false
+  xy: 1353, 706
+  size: 10, 13
+  orig: 90, 90
+  offset: 29, 39
+  index: -1
+vfx/daiji/cc_daiji_tx7_24
+  rotate: true
+  xy: 1095, 682
+  size: 11, 16
+  orig: 90, 90
+  offset: 29, 38
+  index: -1
+vfx/daiji/cc_daiji_tx7_25
+  rotate: true
+  xy: 1293, 115
+  size: 13, 18
+  orig: 90, 90
+  offset: 29, 37
+  index: -1
+vfx/daiji/cc_daiji_tx7_26
+  rotate: true
+  xy: 201, 367
+  size: 14, 20
+  orig: 90, 90
+  offset: 29, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_27
+  rotate: false
+  xy: 1122, 161
+  size: 16, 22
+  orig: 90, 90
+  offset: 29, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_28
+  rotate: false
+  xy: 1131, 1021
+  size: 16, 23
+  orig: 90, 90
+  offset: 30, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_29
+  rotate: true
+  xy: 1101, 189
+  size: 17, 26
+  orig: 90, 90
+  offset: 30, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_30
+  rotate: false
+  xy: 180, 177
+  size: 19, 31
+  orig: 90, 90
+  offset: 30, 31
+  index: -1
+vfx/daiji/cc_daiji_tx7_31
+  rotate: true
+  xy: 1323, 190
+  size: 18, 27
+  orig: 90, 90
+  offset: 32, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_32
+  rotate: true
+  xy: 1219, 207
+  size: 18, 27
+  orig: 90, 90
+  offset: 33, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_33
+  rotate: false
+  xy: 1344, 737
+  size: 19, 27
+  orig: 90, 90
+  offset: 34, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_34
+  rotate: false
+  xy: 1344, 796
+  size: 19, 28
+  orig: 90, 90
+  offset: 35, 35
+  index: -1
+vfx/daiji/cc_daiji_tx7_35
+  rotate: true
+  xy: 833, 2
+  size: 20, 28
+  orig: 90, 90
+  offset: 36, 35
+  index: -1
+vfx/daiji/cc_daiji_tx7_36
+  rotate: true
+  xy: 863, 2
+  size: 20, 28
+  orig: 90, 90
+  offset: 37, 35
+  index: -1
+vfx/daiji/cc_daiji_tx7_37
+  rotate: true
+  xy: 893, 2
+  size: 20, 28
+  orig: 90, 90
+  offset: 38, 35
+  index: -1
+vfx/daiji/cc_daiji_tx7_38
+  rotate: true
+  xy: 923, 2
+  size: 20, 28
+  orig: 90, 90
+  offset: 39, 35
+  index: -1
+vfx/daiji/cc_daiji_tx7_39
+  rotate: false
+  xy: 1344, 826
+  size: 19, 29
+  orig: 90, 90
+  offset: 40, 35
+  index: -1
+vfx/daiji/cc_daiji_tx7_40
+  rotate: true
+  xy: 1263, 222
+  size: 18, 29
+  orig: 90, 90
+  offset: 41, 35
+  index: -1
+vfx/daiji/cc_daiji_tx7_41
+  rotate: true
+  xy: 1128, 214
+  size: 16, 29
+  orig: 90, 90
+  offset: 43, 35
+  index: -1
+vfx/daiji/cc_daiji_tx7_42
+  rotate: true
+  xy: 1294, 189
+  size: 16, 27
+  orig: 90, 90
+  offset: 43, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_43
+  rotate: false
+  xy: 1247, 277
+  size: 14, 27
+  orig: 90, 90
+  offset: 45, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_44
+  rotate: false
+  xy: 964, 706
+  size: 13, 27
+  orig: 90, 90
+  offset: 47, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_45
+  rotate: true
+  xy: 1038, 57
+  size: 12, 27
+  orig: 90, 90
+  offset: 48, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_46
+  rotate: false
+  xy: 1352, 247
+  size: 11, 27
+  orig: 90, 90
+  offset: 49, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_47
+  rotate: true
+  xy: 385, 851
+  size: 10, 27
+  orig: 90, 90
+  offset: 51, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_48
+  rotate: false
+  xy: 219, 907
+  size: 8, 27
+  orig: 90, 90
+  offset: 52, 36
+  index: -1
+vfx/daiji/cc_daiji_tx7_49
+  rotate: false
+  xy: 501, 334
+  size: 7, 27
+  orig: 90, 90
+  offset: 53, 36
+  index: -1
+vfx/daiji/cc_daiji_tx8_150
+  rotate: false
+  xy: 1209, 94
+  size: 3, 4
+  orig: 90, 90
+  offset: 27, 40
+  index: -1
+vfx/daiji/cc_daiji_tx8_151
+  rotate: true
+  xy: 1113, 746
+  size: 4, 6
+  orig: 90, 90
+  offset: 27, 40
+  index: -1
+vfx/daiji/cc_daiji_tx8_152
+  rotate: false
+  xy: 1120, 235
+  size: 6, 6
+  orig: 90, 90
+  offset: 27, 40
+  index: -1
+vfx/daiji/cc_daiji_tx8_153
+  rotate: false
+  xy: 1111, 225
+  size: 7, 7
+  orig: 90, 90
+  offset: 27, 40
+  index: -1
+vfx/daiji/cc_daiji_tx8_154
+  rotate: false
+  xy: 1335, 93
+  size: 9, 10
+  orig: 90, 90
+  offset: 27, 40
+  index: -1
+vfx/daiji/cc_daiji_tx8_155
+  rotate: true
+  xy: 714, 617
+  size: 11, 14
+  orig: 90, 90
+  offset: 27, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_156
+  rotate: false
+  xy: 1166, 26
+  size: 12, 18
+  orig: 90, 90
+  offset: 27, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_157
+  rotate: false
+  xy: 1278, 201
+  size: 14, 19
+  orig: 90, 90
+  offset: 27, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_158
+  rotate: false
+  xy: 1348, 306
+  size: 15, 21
+  orig: 90, 90
+  offset: 27, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_159
+  rotate: true
+  xy: 661, 453
+  size: 17, 22
+  orig: 90, 90
+  offset: 27, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_160
+  rotate: false
+  xy: 1021, 274
+  size: 18, 25
+  orig: 90, 90
+  offset: 27, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_161
+  rotate: true
+  xy: 1131, 136
+  size: 18, 26
+  orig: 90, 90
+  offset: 28, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_162
+  rotate: false
+  xy: 310, 2
+  size: 19, 26
+  orig: 90, 90
+  offset: 29, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_163
+  rotate: false
+  xy: 1114, 102
+  size: 19, 27
+  orig: 90, 90
+  offset: 30, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_164
+  rotate: true
+  xy: 1323, 140
+  size: 19, 27
+  orig: 90, 90
+  offset: 32, 38
+  index: -1
+vfx/daiji/cc_daiji_tx8_165
+  rotate: false
+  xy: 1101, 161
+  size: 19, 26
+  orig: 90, 90
+  offset: 33, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_166
+  rotate: false
+  xy: 1193, 120
+  size: 19, 27
+  orig: 90, 90
+  offset: 34, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_167
+  rotate: true
+  xy: 953, 2
+  size: 20, 28
+  orig: 90, 90
+  offset: 35, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_168
+  rotate: true
+  xy: 1159, 208
+  size: 20, 28
+  orig: 90, 90
+  offset: 36, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_169
+  rotate: false
+  xy: 1344, 766
+  size: 19, 28
+  orig: 90, 90
+  offset: 37, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_170
+  rotate: true
+  xy: 1189, 207
+  size: 18, 28
+  orig: 90, 90
+  offset: 38, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_171
+  rotate: true
+  xy: 1248, 203
+  size: 17, 28
+  orig: 90, 90
+  offset: 39, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_172
+  rotate: false
+  xy: 1140, 156
+  size: 17, 27
+  orig: 90, 90
+  offset: 40, 40
+  index: -1
+vfx/daiji/cc_daiji_tx8_173
+  rotate: true
+  xy: 740, 2
+  size: 15, 27
+  orig: 90, 90
+  offset: 42, 40
+  index: -1
+vfx/daiji/cc_daiji_tx8_174
+  rotate: false
+  xy: 1278, 148
+  size: 13, 27
+  orig: 90, 90
+  offset: 44, 40
+  index: -1
+vfx/daiji/cc_daiji_tx8_175
+  rotate: true
+  xy: 653, 330
+  size: 12, 28
+  orig: 90, 90
+  offset: 45, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_176
+  rotate: false
+  xy: 1352, 276
+  size: 11, 28
+  orig: 90, 90
+  offset: 46, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_177
+  rotate: true
+  xy: 676, 3
+  size: 9, 28
+  orig: 90, 90
+  offset: 48, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_178
+  rotate: false
+  xy: 1176, 77
+  size: 9, 27
+  orig: 90, 90
+  offset: 49, 39
+  index: -1
+vfx/daiji/cc_daiji_tx8_179
+  rotate: true
+  xy: 1323, 131
+  size: 7, 27
+  orig: 90, 90
+  offset: 51, 39
+  index: -1
+vfx/daiji/cc_daiji_tx9_00
+  rotate: false
+  xy: 1072, 186
+  size: 27, 28
+  orig: 90, 90
+  offset: 23, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_01
+  rotate: false
+  xy: 1159, 250
+  size: 28, 28
+  orig: 90, 90
+  offset: 23, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_02
+  rotate: false
+  xy: 1189, 278
+  size: 27, 29
+  orig: 90, 90
+  offset: 23, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_03
+  rotate: false
+  xy: 1189, 247
+  size: 27, 29
+  orig: 90, 90
+  offset: 23, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_04
+  rotate: false
+  xy: 1071, 155
+  size: 28, 29
+  orig: 90, 90
+  offset: 22, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_05
+  rotate: true
+  xy: 1041, 343
+  size: 28, 29
+  orig: 90, 90
+  offset: 22, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_06
+  rotate: false
+  xy: 1089, 70
+  size: 27, 30
+  orig: 90, 90
+  offset: 22, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_07
+  rotate: true
+  xy: 1129, 309
+  size: 28, 30
+  orig: 90, 90
+  offset: 22, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_08
+  rotate: false
+  xy: 1218, 307
+  size: 27, 29
+  orig: 90, 90
+  offset: 22, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_09
+  rotate: false
+  xy: 1218, 276
+  size: 27, 29
+  orig: 90, 90
+  offset: 22, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_10
+  rotate: false
+  xy: 1218, 245
+  size: 27, 29
+  orig: 90, 90
+  offset: 22, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_11
+  rotate: true
+  xy: 1263, 300
+  size: 27, 29
+  orig: 90, 90
+  offset: 22, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_12
+  rotate: false
+  xy: 1075, 251
+  size: 27, 30
+  orig: 90, 90
+  offset: 22, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_13
+  rotate: true
+  xy: 1128, 280
+  size: 27, 30
+  orig: 90, 90
+  offset: 22, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_14
+  rotate: true
+  xy: 1041, 216
+  size: 28, 30
+  orig: 90, 90
+  offset: 21, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_15
+  rotate: true
+  xy: 1127, 251
+  size: 27, 30
+  orig: 90, 90
+  offset: 22, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_16
+  rotate: true
+  xy: 1263, 271
+  size: 27, 29
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_17
+  rotate: true
+  xy: 1263, 242
+  size: 27, 29
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_18
+  rotate: true
+  xy: 1317, 300
+  size: 27, 29
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_19
+  rotate: false
+  xy: 1294, 268
+  size: 27, 29
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_20
+  rotate: false
+  xy: 1070, 35
+  size: 27, 30
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_21
+  rotate: false
+  xy: 1099, 38
+  size: 27, 30
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_22
+  rotate: false
+  xy: 1079, 3
+  size: 27, 30
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_23
+  rotate: false
+  xy: 1108, 6
+  size: 27, 30
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_24
+  rotate: false
+  xy: 1189, 309
+  size: 27, 30
+  orig: 90, 90
+  offset: 21, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_25
+  rotate: false
+  xy: 1294, 237
+  size: 27, 29
+  orig: 90, 90
+  offset: 20, 38
+  index: -1
+vfx/daiji/cc_daiji_tx9_26
+  rotate: true
+  xy: 1041, 313
+  size: 28, 29
+  orig: 90, 90
+  offset: 20, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_27
+  rotate: false
+  xy: 1323, 270
+  size: 27, 28
+  orig: 90, 90
+  offset: 21, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_28
+  rotate: false
+  xy: 1323, 240
+  size: 27, 28
+  orig: 90, 90
+  offset: 21, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_29
+  rotate: false
+  xy: 1323, 210
+  size: 27, 28
+  orig: 90, 90
+  offset: 21, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_30
+  rotate: false
+  xy: 1294, 207
+  size: 27, 28
+  orig: 90, 90
+  offset: 21, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_31
+  rotate: false
+  xy: 1101, 131
+  size: 28, 28
+  orig: 90, 90
+  offset: 21, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_32
+  rotate: false
+  xy: 1323, 161
+  size: 27, 27
+  orig: 90, 90
+  offset: 22, 38
+  index: -1
+vfx/daiji/cc_daiji_tx9_33
+  rotate: false
+  xy: 1118, 72
+  size: 27, 28
+  orig: 90, 90
+  offset: 22, 38
+  index: -1
+vfx/daiji/cc_daiji_tx9_34
+  rotate: false
+  xy: 1128, 42
+  size: 27, 28
+  orig: 90, 90
+  offset: 22, 38
+  index: -1
+vfx/daiji/cc_daiji_tx9_35
+  rotate: false
+  xy: 1137, 12
+  size: 27, 28
+  orig: 90, 90
+  offset: 22, 38
+  index: -1
+vfx/daiji/cc_daiji_tx9_36
+  rotate: true
+  xy: 1129, 185
+  size: 27, 28
+  orig: 90, 90
+  offset: 22, 38
+  index: -1
+vfx/daiji/cc_daiji_tx9_37
+  rotate: false
+  xy: 1159, 178
+  size: 28, 28
+  orig: 90, 90
+  offset: 22, 38
+  index: -1
+vfx/daiji/cc_daiji_tx9_38
+  rotate: false
+  xy: 1189, 178
+  size: 28, 27
+  orig: 90, 90
+  offset: 22, 38
+  index: -1
+vfx/daiji/cc_daiji_tx9_39
+  rotate: false
+  xy: 1248, 173
+  size: 28, 28
+  orig: 90, 90
+  offset: 22, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_40
+  rotate: false
+  xy: 1219, 177
+  size: 27, 28
+  orig: 90, 90
+  offset: 23, 37
+  index: -1
+vfx/daiji/cc_daiji_tx9_41
+  rotate: false
+  xy: 1159, 148
+  size: 28, 28
+  orig: 90, 90
+  offset: 22, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_42
+  rotate: false
+  xy: 1294, 159
+  size: 27, 28
+  orig: 90, 90
+  offset: 23, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_43
+  rotate: true
+  xy: 1189, 149
+  size: 27, 28
+  orig: 90, 90
+  offset: 23, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_44
+  rotate: false
+  xy: 1219, 148
+  size: 27, 27
+  orig: 90, 90
+  offset: 23, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_45
+  rotate: false
+  xy: 1164, 119
+  size: 27, 27
+  orig: 90, 90
+  offset: 23, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_46
+  rotate: false
+  xy: 1248, 144
+  size: 28, 27
+  orig: 90, 90
+  offset: 23, 36
+  index: -1
+vfx/daiji/cc_daiji_tx9_47
+  rotate: false
+  xy: 1135, 106
+  size: 27, 28
+  orig: 90, 90
+  offset: 23, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_48
+  rotate: true
+  xy: 1293, 130
+  size: 27, 28
+  orig: 90, 90
+  offset: 23, 35
+  index: -1
+vfx/daiji/cc_daiji_tx9_49
+  rotate: false
+  xy: 1147, 76
+  size: 27, 28
+  orig: 90, 90
+  offset: 23, 35
+  index: -1
+vfx/shanbi/shanbi_tx1_01
+  rotate: true
+  xy: 1131, 746
+  size: 123, 70
+  orig: 150, 150
+  offset: 27, 41
+  index: -1
+vfx/shanbi/shanbi_tx1_02
+  rotate: false
+  xy: 538, 877
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/shanbi/shanbi_tx1_03
+  rotate: false
+  xy: 359, 440
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+vfx/shanbi/shanbi_tx1_04
+  rotate: false
+  xy: 1004, 1046
+  size: 150, 125
+  orig: 150, 150
+  offset: 0, 20
+  index: -1
+vfx/shanbi/shanbi_tx1_05
+  rotate: false
+  xy: 538, 802
+  size: 150, 73
+  orig: 150, 150
+  offset: 0, 46
+  index: -1
+vfx/shanbi/shanbi_tx1_06
+  rotate: true
+  xy: 511, 440
+  size: 150, 73
+  orig: 150, 150
+  offset: 0, 46
+  index: -1
+vfx/shanbi/shanbi_tx1_07
+  rotate: true
+  xy: 586, 453
+  size: 150, 73
+  orig: 150, 150
+  offset: 0, 46
+  index: -1
+vfx/shanbi/shanbi_tx1_08
+  rotate: true
+  xy: 1156, 1021
+  size: 150, 71
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx1_09
+  rotate: false
+  xy: 352, 85
+  size: 150, 73
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx1_10
+  rotate: true
+  xy: 833, 877
+  size: 150, 71
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx1_11
+  rotate: false
+  xy: 418, 9
+  size: 150, 74
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx1_12
+  rotate: true
+  xy: 1229, 1028
+  size: 150, 72
+  orig: 150, 150
+  offset: 0, 48
+  index: -1
+vfx/shanbi/shanbi_tx1_13
+  rotate: true
+  xy: 757, 877
+  size: 150, 74
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx1_14
+  rotate: false
+  xy: 757, 804
+  size: 150, 71
+  orig: 150, 150
+  offset: 0, 48
+  index: -1
+vfx/shanbi/shanbi_tx1_15
+  rotate: true
+  xy: 906, 877
+  size: 150, 71
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx1_16
+  rotate: false
+  xy: 501, 258
+  size: 150, 74
+  orig: 150, 150
+  offset: 0, 46
+  index: -1
+vfx/shanbi/shanbi_tx1_17
+  rotate: false
+  xy: 979, 972
+  size: 150, 72
+  orig: 150, 150
+  offset: 0, 46
+  index: -1
+vfx/shanbi/shanbi_tx1_18
+  rotate: false
+  xy: 504, 107
+  size: 150, 73
+  orig: 150, 150
+  offset: 0, 46
+  index: -1
+vfx/shanbi/shanbi_tx1_19
+  rotate: false
+  xy: 358, 363
+  size: 150, 75
+  orig: 150, 150
+  offset: 0, 44
+  index: -1
+vfx/shanbi/shanbi_tx1_20
+  rotate: false
+  xy: 201, 140
+  size: 149, 73
+  orig: 150, 150
+  offset: 0, 43
+  index: -1
+vfx/shanbi/shanbi_tx1_21
+  rotate: true
+  xy: 1131, 871
+  size: 148, 72
+  orig: 150, 150
+  offset: 0, 44
+  index: -1
+vfx/shanbi/shanbi_tx1_22
+  rotate: false
+  xy: 180, 61
+  size: 149, 77
+  orig: 150, 150
+  offset: 0, 40
+  index: -1
+vfx/shanbi/shanbi_tx1_23
+  rotate: true
+  xy: 1205, 873
+  size: 146, 66
+  orig: 150, 150
+  offset: 0, 50
+  index: -1
+vfx/shanbi/shanbi_tx1_24
+  rotate: true
+  xy: 1203, 725
+  size: 144, 68
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx1_25
+  rotate: true
+  xy: 661, 472
+  size: 143, 67
+  orig: 150, 150
+  offset: 0, 48
+  index: -1
+vfx/shanbi/shanbi_tx1_26
+  rotate: true
+  xy: 686, 330
+  size: 140, 68
+  orig: 150, 150
+  offset: 1, 46
+  index: -1
+vfx/shanbi/shanbi_tx1_27
+  rotate: false
+  xy: 653, 262
+  size: 128, 66
+  orig: 150, 150
+  offset: 4, 45
+  index: -1
+vfx/shanbi/shanbi_tx1_28
+  rotate: false
+  xy: 1113, 678
+  size: 88, 66
+  orig: 150, 150
+  offset: 15, 43
+  index: -1
+vfx/shanbi/shanbi_tx1_29
+  rotate: true
+  xy: 1265, 123
+  size: 19, 11
+  orig: 150, 150
+  offset: 50, 79
+  index: -1
+vfx/shanbi/shanbi_tx1_30
+  rotate: false
+  xy: 1240, 115
+  size: 19, 12
+  orig: 150, 150
+  offset: 50, 78
+  index: -1
+vfx/shanbi/shanbi_tx2_01
+  rotate: true
+  xy: 739, 1087
+  size: 62, 35
+  orig: 150, 150
+  offset: 88, 47
+  index: -1
+vfx/shanbi/shanbi_tx2_02
+  rotate: true
+  xy: 631, 344
+  size: 107, 53
+  orig: 150, 150
+  offset: 43, 47
+  index: -1
+vfx/shanbi/shanbi_tx2_03
+  rotate: true
+  xy: 1273, 733
+  size: 145, 69
+  orig: 150, 150
+  offset: 5, 47
+  index: -1
+vfx/shanbi/shanbi_tx2_04
+  rotate: false
+  xy: 503, 182
+  size: 150, 74
+  orig: 150, 150
+  offset: 0, 46
+  index: -1
+vfx/shanbi/shanbi_tx2_05
+  rotate: false
+  xy: 979, 898
+  size: 150, 72
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx2_06
+  rotate: false
+  xy: 979, 824
+  size: 150, 72
+  orig: 150, 150
+  offset: 0, 47
+  index: -1
+vfx/shanbi/shanbi_tx2_07
+  rotate: false
+  xy: 979, 752
+  size: 150, 70
+  orig: 150, 150
+  offset: 0, 48
+  index: -1
+vfx/shanbi/shanbi_tx2_08
+  rotate: true
+  xy: 1273, 880
+  size: 146, 66
+  orig: 150, 150
+  offset: 0, 51
+  index: -1
+vfx/shanbi/shanbi_tx2_09
+  rotate: false
+  xy: 655, 201
+  size: 132, 59
+  orig: 150, 150
+  offset: 0, 57
+  index: -1
+vfx/shanbi/shanbi_tx2_10
+  rotate: false
+  xy: 656, 141
+  size: 132, 58
+  orig: 150, 150
+  offset: 0, 57
+  index: -1
+vfx/shanbi/shanbi_tx2_11
+  rotate: true
+  xy: 945, 1069
+  size: 132, 57
+  orig: 150, 150
+  offset: 1, 57
+  index: -1
+vfx/shanbi/shanbi_tx2_12
+  rotate: false
+  xy: 656, 81
+  size: 132, 58
+  orig: 150, 150
+  offset: 2, 56
+  index: -1
+vfx/shanbi/shanbi_tx2_13
+  rotate: false
+  xy: 714, 630
+  size: 131, 58
+  orig: 150, 150
+  offset: 3, 56
+  index: -1
+vfx/shanbi/shanbi_tx2_14
+  rotate: true
+  xy: 904, 604
+  size: 129, 58
+  orig: 150, 150
+  offset: 4, 56
+  index: -1
+vfx/shanbi/shanbi_tx2_15
+  rotate: false
+  xy: 964, 635
+  size: 129, 58
+  orig: 150, 150
+  offset: 4, 56
+  index: -1
+vfx/shanbi/shanbi_tx2_16
+  rotate: true
+  xy: 730, 498
+  size: 130, 58
+  orig: 150, 150
+  offset: 3, 56
+  index: -1
+vfx/shanbi/shanbi_tx2_17
+  rotate: false
+  xy: 1095, 618
+  size: 128, 58
+  orig: 150, 150
+  offset: 4, 56
+  index: -1
+vfx/shanbi/shanbi_tx2_18
+  rotate: false
+  xy: 180, 2
+  size: 128, 57
+  orig: 150, 150
+  offset: 4, 56
+  index: -1
+vfx/shanbi/shanbi_tx2_19
+  rotate: false
+  xy: 964, 577
+  size: 129, 56
+  orig: 150, 150
+  offset: 3, 57
+  index: -1
+vfx/shanbi/shanbi_tx2_20
+  rotate: true
+  xy: 790, 497
+  size: 131, 55
+  orig: 150, 150
+  offset: 1, 57
+  index: -1
+vfx/shanbi/shanbi_tx2_21
+  rotate: false
+  xy: 756, 747
+  size: 132, 55
+  orig: 150, 150
+  offset: 1, 57
+  index: -1
+vfx/shanbi/shanbi_tx2_22
+  rotate: false
+  xy: 979, 695
+  size: 132, 55
+  orig: 150, 150
+  offset: 0, 57
+  index: -1
+vfx/shanbi/shanbi_tx2_23
+  rotate: false
+  xy: 756, 690
+  size: 132, 55
+  orig: 150, 150
+  offset: 0, 57
+  index: -1
+vfx/shanbi/shanbi_tx2_24
+  rotate: true
+  xy: 847, 556
+  size: 132, 55
+  orig: 150, 150
+  offset: 0, 58
+  index: -1
+vfx/shanbi/shanbi_tx2_25
+  rotate: false
+  xy: 1095, 561
+  size: 131, 55
+  orig: 150, 150
+  offset: 0, 58
+  index: -1
+vfx/shanbi/shanbi_tx2_26
+  rotate: false
+  xy: 1095, 505
+  size: 130, 54
+  orig: 150, 150
+  offset: 0, 59
+  index: -1
+vfx/shanbi/shanbi_tx2_27
+  rotate: false
+  xy: 964, 521
+  size: 129, 54
+  orig: 150, 150
+  offset: 0, 59
+  index: -1
+vfx/shanguang
+  rotate: false
+  xy: 783, 266
+  size: 62, 62
+  orig: 77, 77
+  offset: 8, 7
+  index: -1
+vfx/shitou/shitou1
+  rotate: true
+  xy: 1319, 368
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou10
+  rotate: false
+  xy: 1263, 352
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou11
+  rotate: true
+  xy: 847, 482
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou12
+  rotate: false
+  xy: 706, 2
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou13
+  rotate: true
+  xy: 1247, 306
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou14
+  rotate: false
+  xy: 1000, 384
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou15
+  rotate: true
+  xy: 835, 55
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou16
+  rotate: false
+  xy: 1214, 130
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou17
+  rotate: false
+  xy: 573, 76
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou18
+  rotate: false
+  xy: 1082, 408
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou19
+  rotate: true
+  xy: 1338, 1079
+  size: 63, 24
+  orig: 63, 25
+  offset: 0, 1
+  index: -1
+vfx/shitou/shitou2
+  rotate: false
+  xy: 1036, 373
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou20
+  rotate: false
+  xy: 504, 85
+  size: 67, 20
+  orig: 68, 22
+  offset: 1, 2
+  index: -1
+vfx/shitou/shitou21
+  rotate: false
+  xy: 739, 1029
+  size: 125, 51
+  orig: 125, 51
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou22
+  rotate: true
+  xy: 756, 388
+  size: 82, 39
+  orig: 82, 39
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou23
+  rotate: false
+  xy: 1137, 2
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou24
+  rotate: false
+  xy: 621, 440
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou25
+  rotate: true
+  xy: 527, 1008
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou26
+  rotate: false
+  xy: 1166, 12
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou27
+  rotate: false
+  xy: 1324, 122
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou28
+  rotate: true
+  xy: 1353, 1295
+  size: 14, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou29
+  rotate: true
+  xy: 1243, 129
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou3
+  rotate: true
+  xy: 1323, 1190
+  size: 95, 33
+  orig: 95, 33
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou30
+  rotate: false
+  xy: 678, 782
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou31
+  rotate: true
+  xy: 1353, 1311
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou32
+  rotate: true
+  xy: 1243, 92
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou33
+  rotate: true
+  xy: 1180, 29
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou34
+  rotate: true
+  xy: 678, 764
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou35
+  rotate: false
+  xy: 1233, 104
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou36
+  rotate: true
+  xy: 1353, 721
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou37
+  rotate: true
+  xy: 1352, 192
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou38
+  rotate: false
+  xy: 1352, 107
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou39
+  rotate: false
+  xy: 1101, 224
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou4
+  rotate: true
+  xy: 964, 471
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou40
+  rotate: false
+  xy: 1154, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou41
+  rotate: false
+  xy: 1214, 105
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou42
+  rotate: false
+  xy: 1214, 116
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou43
+  rotate: false
+  xy: 1170, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou44
+  rotate: false
+  xy: 1157, 46
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou45
+  rotate: false
+  xy: 1120, 227
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou46
+  rotate: false
+  xy: 1324, 113
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou47
+  rotate: true
+  xy: 1338, 1144
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou48
+  rotate: true
+  xy: 1352, 218
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou49
+  rotate: false
+  xy: 1278, 177
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou5
+  rotate: true
+  xy: 331, 85
+  size: 53, 19
+  orig: 53, 19
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou50
+  rotate: false
+  xy: 1095, 482
+  size: 63, 21
+  orig: 63, 21
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou51
+  rotate: false
+  xy: 665, 47
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou52
+  rotate: true
+  xy: 1160, 480
+  size: 23, 61
+  orig: 23, 61
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou53
+  rotate: false
+  xy: 1134, 436
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou54
+  rotate: false
+  xy: 953, 278
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou55
+  rotate: true
+  xy: 1294, 299
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou56
+  rotate: true
+  xy: 1353, 691
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou57
+  rotate: true
+  xy: 847, 399
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou58
+  rotate: true
+  xy: 993, 336
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou59
+  rotate: false
+  xy: 678, 710
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou6
+  rotate: false
+  xy: 730, 472
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou60
+  rotate: true
+  xy: 964, 373
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou7
+  rotate: true
+  xy: 1220, 395
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou8
+  rotate: true
+  xy: 646, 39
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+vfx/shitou/shitou9
+  rotate: false
+  xy: 1275, 417
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+wb
+  rotate: false
+  xy: 2, 210
+  size: 197, 171
+  orig: 197, 179
+  offset: 0, 0
+  index: -1
+yao
+  rotate: false
+  xy: 201, 215
+  size: 149, 146
+  orig: 149, 152
+  offset: 0, 0
+  index: -1

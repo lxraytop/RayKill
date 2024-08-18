@@ -1,0 +1,195 @@
+
+skin_fuhuanghou_WanFuQianDeng2.png
+size: 888,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chutu/huangguan_00155
+  rotate: false
+  xy: 631, 161
+  size: 35, 42
+  orig: 41, 48
+  offset: 3, 3
+  index: -1
+fuhuanghou_diaozhui
+  rotate: true
+  xy: 428, 161
+  size: 42, 201
+  orig: 51, 201
+  offset: 0, 0
+  index: -1
+fuhuanghou_houfa
+  rotate: false
+  xy: 679, 77
+  size: 82, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+fuhuanghou_shenti
+  rotate: false
+  xy: 2, 233
+  size: 432, 653
+  orig: 433, 653
+  offset: 0, 0
+  index: -1
+fuhuanghou_tou
+  rotate: true
+  xy: 428, 42
+  size: 117, 118
+  orig: 117, 119
+  offset: 0, 1
+  index: -1
+fuhuanghou_touguan2
+  rotate: false
+  xy: 671, 213
+  size: 204, 125
+  orig: 204, 125
+  offset: 0, 0
+  index: -1
+fuhuanghou_wuming
+  rotate: true
+  xy: 407, 7
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+fuhuanghou_xiaozhi
+  rotate: true
+  xy: 668, 173
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+fuhuanghou_youdabi
+  rotate: true
+  xy: 679, 30
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+fuhuanghou_youerfa
+  rotate: true
+  xy: 754, 553
+  size: 15, 84
+  orig: 17, 84
+  offset: 1, 0
+  index: -1
+fuhuanghou_youerhuan
+  rotate: false
+  xy: 875, 858
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+fuhuanghou_youfadai
+  rotate: false
+  xy: 548, 39
+  size: 67, 120
+  orig: 68, 120
+  offset: 1, 0
+  index: -1
+fuhuanghou_youfadai2
+  rotate: false
+  xy: 340, 60
+  size: 86, 171
+  orig: 86, 171
+  offset: 0, 0
+  index: -1
+fuhuanghou_youfahou
+  rotate: true
+  xy: 424, 10
+  size: 30, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+fuhuanghou_youfashi
+  rotate: false
+  xy: 782, 96
+  size: 67, 64
+  orig: 67, 68
+  offset: 0, 4
+  index: -1
+fuhuanghou_youpijianhou
+  rotate: false
+  xy: 340, 2
+  size: 65, 56
+  orig: 72, 56
+  offset: 7, 0
+  index: -1
+fuhuanghou_youpijianqian
+  rotate: false
+  xy: 617, 40
+  size: 60, 119
+  orig: 61, 119
+  offset: 1, 0
+  index: -1
+fuhuanghou_youxiaobi
+  rotate: false
+  xy: 436, 205
+  size: 233, 345
+  orig: 233, 345
+  offset: 0, 0
+  index: -1
+fuhuanghou_youxiuhou
+  rotate: false
+  xy: 754, 597
+  size: 119, 289
+  orig: 119, 289
+  offset: 0, 0
+  index: -1
+fuhuanghou_zhongzhi
+  rotate: true
+  xy: 851, 111
+  size: 49, 31
+  orig: 50, 31
+  offset: 1, 0
+  index: -1
+fuhuanghou_zuoerfa
+  rotate: true
+  xy: 754, 570
+  size: 25, 105
+  orig: 26, 106
+  offset: 1, 1
+  index: -1
+fuhuanghou_zuoerhuan
+  rotate: false
+  xy: 763, 105
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+fuhuanghou_zuofadai
+  rotate: true
+  xy: 2, 5
+  size: 226, 336
+  orig: 226, 336
+  offset: 0, 0
+  index: -1
+fuhuanghou_zuofashi
+  rotate: false
+  xy: 679, 141
+  size: 101, 70
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+fuhuanghou_zuopijian
+  rotate: true
+  xy: 671, 340
+  size: 210, 148
+  orig: 210, 148
+  offset: 0, 0
+  index: -1
+fuhuanghou_zuopijianhou
+  rotate: false
+  xy: 782, 162
+  size: 92, 49
+  orig: 92, 49
+  offset: 0, 0
+  index: -1
+fuhuanghou_zuoxiaobi
+  rotate: false
+  xy: 436, 552
+  size: 316, 334
+  orig: 316, 334
+  offset: 0, 0
+  index: -1

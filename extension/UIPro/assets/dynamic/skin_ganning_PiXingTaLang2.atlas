@@ -1,0 +1,223 @@
+
+skin_ganning_PiXingTaLang2.png
+size: 581,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_yifu
+  rotate: false
+  xy: 215, 73
+  size: 70, 170
+  orig: 70, 170
+  offset: 0, 0
+  index: -1
+L_yiling
+  rotate: true
+  xy: 427, 437
+  size: 39, 143
+  orig: 44, 143
+  offset: 0, 0
+  index: -1
+R_shou
+  rotate: true
+  xy: 287, 83
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+R_shoubi
+  rotate: true
+  xy: 215, 2
+  size: 69, 107
+  orig: 69, 107
+  offset: 0, 0
+  index: -1
+R_tui
+  rotate: false
+  xy: 2, 400
+  size: 195, 179
+  orig: 195, 179
+  offset: 0, 0
+  index: -1
+R_yifu
+  rotate: false
+  xy: 287, 127
+  size: 90, 116
+  orig: 90, 116
+  offset: 0, 0
+  index: -1
+R_yiling
+  rotate: true
+  xy: 385, 244
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 502, 98
+  size: 42, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+ef/R_shou_glow
+  rotate: true
+  xy: 502, 57
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+ef/R_shoubi_glow
+  rotate: true
+  xy: 483, 265
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+ef/R_tui color_glow
+  rotate: false
+  xy: 2, 219
+  size: 195, 179
+  orig: 195, 179
+  offset: 0, 0
+  index: -1
+ef/R_yifu_glow
+  rotate: false
+  xy: 377, 320
+  size: 90, 115
+  orig: 90, 116
+  offset: 0, 0
+  index: -1
+ef/shipin01_glow
+  rotate: true
+  xy: 464, 150
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+ef/xianglian_glow
+  rotate: true
+  xy: 546, 111
+  size: 40, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+ef/yaoshi01_glow
+  rotate: false
+  xy: 379, 87
+  size: 63, 62
+  orig: 65, 65
+  offset: 0, 3
+  index: -1
+qunbai01
+  rotate: false
+  xy: 199, 442
+  size: 226, 137
+  orig: 226, 137
+  offset: 0, 0
+  index: -1
+qunbai03
+  rotate: false
+  xy: 2, 3
+  size: 88, 214
+  orig: 88, 214
+  offset: 0, 0
+  index: -1
+qunbai04
+  rotate: true
+  xy: 427, 478
+  size: 101, 140
+  orig: 101, 140
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: false
+  xy: 92, 53
+  size: 121, 164
+  orig: 121, 164
+  offset: 0, 0
+  index: -1
+shipin01
+  rotate: true
+  xy: 483, 205
+  size: 58, 63
+  orig: 58, 64
+  offset: 0, 1
+  index: -1
+tielian
+  rotate: false
+  xy: 199, 317
+  size: 176, 123
+  orig: 176, 130
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 469, 334
+  size: 90, 101
+  orig: 90, 112
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: false
+  xy: 344, 84
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: true
+  xy: 526, 153
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: true
+  xy: 179, 3
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+toufa04
+  rotate: true
+  xy: 324, 33
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+wuqi_2
+  rotate: false
+  xy: 199, 245
+  size: 184, 70
+  orig: 184, 70
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: true
+  xy: 548, 221
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+yaodai01
+  rotate: false
+  xy: 92, 2
+  size: 85, 49
+  orig: 85, 50
+  offset: 0, 0
+  index: -1
+yaodai02
+  rotate: false
+  xy: 379, 151
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+yaoshi01
+  rotate: false
+  xy: 444, 91
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1

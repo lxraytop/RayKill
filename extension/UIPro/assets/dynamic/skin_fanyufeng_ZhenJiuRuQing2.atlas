@@ -1,0 +1,237 @@
+
+skin_fanyufeng_ZhenJiuRuQing2.png
+size: 1063,1063
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N17_2
+  rotate: false
+  xy: 2, 747
+  size: 801, 314
+  orig: 801, 314
+  offset: 0, 0
+  index: -1
+R1
+  rotate: false
+  xy: 891, 457
+  size: 40, 43
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+R10
+  rotate: true
+  xy: 891, 502
+  size: 46, 38
+  orig: 47, 38
+  offset: 1, 0
+  index: -1
+R11
+  rotate: true
+  xy: 611, 69
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+R12
+  rotate: true
+  xy: 891, 413
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+R13
+  rotate: false
+  xy: 558, 26
+  size: 40, 12
+  orig: 40, 13
+  offset: 0, 1
+  index: -1
+R14
+  rotate: true
+  xy: 629, 230
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+R15
+  rotate: true
+  xy: 976, 818
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+R16
+  rotate: true
+  xy: 964, 809
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+R17
+  rotate: false
+  xy: 312, 33
+  size: 138, 104
+  orig: 139, 104
+  offset: 1, 0
+  index: -1
+R18
+  rotate: true
+  xy: 891, 670
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+R19
+  rotate: false
+  xy: 891, 373
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+R2
+  rotate: true
+  xy: 312, 139
+  size: 155, 67
+  orig: 155, 67
+  offset: 0, 0
+  index: -1
+R20
+  rotate: false
+  xy: 891, 550
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+R21
+  rotate: true
+  xy: 611, 109
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+R22
+  rotate: false
+  xy: 2, 5
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+R23
+  rotate: true
+  xy: 385, 272
+  size: 473, 257
+  orig: 473, 257
+  offset: 0, 0
+  index: -1
+R24
+  rotate: false
+  xy: 558, 40
+  size: 51, 124
+  orig: 51, 124
+  offset: 0, 0
+  index: -1
+R25
+  rotate: false
+  xy: 805, 847
+  size: 178, 214
+  orig: 178, 214
+  offset: 0, 0
+  index: -1
+R29
+  rotate: false
+  xy: 549, 166
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: -1
+R3
+  rotate: true
+  xy: 805, 747
+  size: 98, 113
+  orig: 98, 113
+  offset: 0, 0
+  index: -1
+R32
+  rotate: true
+  xy: 381, 144
+  size: 126, 166
+  orig: 126, 166
+  offset: 0, 0
+  index: -1
+R33
+  rotate: false
+  xy: 920, 755
+  size: 42, 90
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+R34
+  rotate: true
+  xy: 985, 789
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+R35
+  rotate: false
+  xy: 2, 36
+  size: 308, 258
+  orig: 310, 258
+  offset: 2, 0
+  index: -1
+R36
+  rotate: false
+  xy: 452, 24
+  size: 104, 118
+  orig: 105, 119
+  offset: 0, 1
+  index: -1
+R37_2
+  rotate: false
+  xy: 2, 296
+  size: 381, 449
+  orig: 381, 464
+  offset: 0, 15
+  index: -1
+R39
+  rotate: false
+  xy: 644, 2
+  size: 402, 294
+  orig: 402, 294
+  offset: 0, 0
+  index: -1
+R4
+  rotate: true
+  xy: 985, 873
+  size: 188, 73
+  orig: 188, 75
+  offset: 0, 2
+  index: -1
+R42
+  rotate: true
+  xy: 644, 298
+  size: 447, 245
+  orig: 454, 286
+  offset: 0, 41
+  index: -1
+R5
+  rotate: true
+  xy: 891, 598
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+R8
+  rotate: false
+  xy: 72, 10
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+R9
+  rotate: false
+  xy: 891, 347
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1

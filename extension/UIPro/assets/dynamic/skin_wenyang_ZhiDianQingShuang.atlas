@@ -1,0 +1,391 @@
+
+skin_wenyang_ZhiDianQingShuang.png
+size: 792,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/sd_wy_shou_00000
+  rotate: true
+  xy: 712, 157
+  size: 67, 44
+  orig: 93, 133
+  offset: 0, 0
+  index: -1
+tx/sd_wy_shou_00002
+  rotate: true
+  xy: 709, 264
+  size: 73, 51
+  orig: 93, 133
+  offset: 0, 0
+  index: -1
+tx/sd_wy_shou_00004
+  rotate: false
+  xy: 510, 108
+  size: 74, 63
+  orig: 93, 133
+  offset: 0, 2
+  index: -1
+tx/sd_wy_shou_00006
+  rotate: true
+  xy: 232, 2
+  size: 78, 90
+  orig: 93, 133
+  offset: 0, 0
+  index: -1
+tx/sd_wy_shou_00009
+  rotate: false
+  xy: 305, 82
+  size: 80, 106
+  orig: 93, 133
+  offset: 0, 24
+  index: -1
+tx/sd_wy_shou_00011
+  rotate: true
+  xy: 692, 566
+  size: 76, 98
+  orig: 93, 133
+  offset: 5, 35
+  index: -1
+tx/sd_wy_shou_00013
+  rotate: true
+  xy: 132, 2
+  size: 78, 98
+  orig: 93, 133
+  offset: 6, 34
+  index: -1
+tx/sd_wy_shou_00015
+  rotate: true
+  xy: 623, 140
+  size: 79, 87
+  orig: 93, 133
+  offset: 8, 46
+  index: -1
+tx/sd_wy_shou_00017
+  rotate: false
+  xy: 593, 316
+  size: 83, 84
+  orig: 93, 133
+  offset: 10, 49
+  index: -1
+tx/sd_wy_shou_00020
+  rotate: false
+  xy: 678, 339
+  size: 69, 76
+  orig: 93, 133
+  offset: 17, 52
+  index: -1
+tx/sd_wy_shou_00022
+  rotate: false
+  xy: 324, 2
+  size: 72, 78
+  orig: 93, 133
+  offset: 21, 55
+  index: -1
+tx/sd_wy_shou_00024
+  rotate: true
+  xy: 584, 18
+  size: 60, 48
+  orig: 93, 133
+  offset: 33, 85
+  index: -1
+tx/sd_wy_shou_00026
+  rotate: false
+  xy: 634, 39
+  size: 58, 47
+  orig: 93, 133
+  offset: 35, 83
+  index: -1
+tx/wy_guang_00000
+  rotate: false
+  xy: 132, 82
+  size: 171, 86
+  orig: 178, 100
+  offset: 1, 14
+  index: -1
+wenyang_beijia
+  rotate: true
+  xy: 733, 693
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+wenyang_bozi
+  rotate: true
+  xy: 709, 226
+  size: 36, 55
+  orig: 36, 55
+  offset: 0, 0
+  index: -1
+wenyang_datui
+  rotate: false
+  xy: 2, 317
+  size: 406, 264
+  orig: 406, 264
+  offset: 0, 0
+  index: -1
+wenyang_fawei1
+  rotate: false
+  xy: 769, 668
+  size: 21, 23
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+wenyang_fawei2
+  rotate: true
+  xy: 586, 80
+  size: 40, 35
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+wenyang_hongpiaodai
+  rotate: false
+  xy: 2, 8
+  size: 90, 26
+  orig: 91, 26
+  offset: 0, 0
+  index: -1
+wenyang_jianjia1
+  rotate: false
+  xy: 666, 480
+  size: 100, 84
+  orig: 100, 84
+  offset: 0, 0
+  index: -1
+wenyang_lingzi
+  rotate: false
+  xy: 513, 27
+  size: 69, 79
+  orig: 69, 80
+  offset: 0, 1
+  index: -1
+wenyang_lingzi2
+  rotate: false
+  xy: 634, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+wenyang_liuhai
+  rotate: false
+  xy: 539, 315
+  size: 52, 85
+  orig: 53, 86
+  offset: 1, 1
+  index: -1
+wenyang_long2_2
+  rotate: false
+  xy: 546, 644
+  size: 185, 146
+  orig: 185, 146
+  offset: 0, 0
+  index: -1
+wenyang_mawei1
+  rotate: false
+  xy: 2, 170
+  size: 278, 145
+  orig: 278, 145
+  offset: 0, 0
+  index: -1
+wenyang_mawei2_2
+  rotate: false
+  xy: 387, 108
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+wenyang_mawei3_2
+  rotate: false
+  xy: 623, 221
+  size: 84, 93
+  orig: 84, 93
+  offset: 0, 0
+  index: -1
+wenyang_mawei4_2
+  rotate: true
+  xy: 666, 417
+  size: 61, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1
+wenyang_piaodai1
+  rotate: true
+  xy: 410, 315
+  size: 85, 127
+  orig: 85, 127
+  offset: 0, 0
+  index: -1
+wenyang_piaodai2
+  rotate: true
+  xy: 524, 173
+  size: 140, 43
+  orig: 140, 43
+  offset: 0, 0
+  index: -1
+wenyang_pifeng2
+  rotate: true
+  xy: 540, 438
+  size: 143, 43
+  orig: 143, 44
+  offset: 0, 0
+  index: -1
+wenyang_pifeng3
+  rotate: false
+  xy: 2, 583
+  size: 542, 207
+  orig: 542, 207
+  offset: 0, 0
+  index: -1
+wenyang_pifeng4
+  rotate: false
+  xy: 540, 402
+  size: 113, 34
+  orig: 113, 34
+  offset: 0, 0
+  index: -1
+wenyang_qugan
+  rotate: false
+  xy: 410, 402
+  size: 128, 179
+  orig: 128, 179
+  offset: 0, 0
+  index: -1
+wenyang_qunbai2
+  rotate: false
+  xy: 630, 446
+  size: 34, 16
+  orig: 35, 18
+  offset: 1, 1
+  index: -1
+wenyang_qunbai4
+  rotate: false
+  xy: 585, 438
+  size: 43, 24
+  orig: 43, 25
+  offset: 0, 1
+  index: -1
+wenyang_qunbai5
+  rotate: false
+  xy: 749, 375
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+wenyang_qunbu2
+  rotate: false
+  xy: 671, 2
+  size: 30, 35
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+wenyang_qunjia
+  rotate: false
+  xy: 585, 464
+  size: 79, 118
+  orig: 80, 118
+  offset: 1, 0
+  index: -1
+wenyang_qunjia2
+  rotate: true
+  xy: 733, 644
+  size: 47, 34
+  orig: 47, 35
+  offset: 0, 1
+  index: -1
+wenyang_tou
+  rotate: false
+  xy: 282, 190
+  size: 95, 125
+  orig: 95, 125
+  offset: 0, 0
+  index: -1
+wenyang_wuqi2
+  rotate: false
+  xy: 546, 584
+  size: 144, 58
+  orig: 145, 58
+  offset: 1, 0
+  index: -1
+wenyang_yanbai
+  rotate: false
+  xy: 387, 97
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+wenyang_yanbai2
+  rotate: false
+  xy: 569, 173
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+wenyang_yanzhu
+  rotate: false
+  xy: 623, 80
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+wenyang_yanzhu2
+  rotate: true
+  xy: 630, 438
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+wenyang_yaobu1
+  rotate: true
+  xy: 758, 157
+  size: 67, 31
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+wenyang_yaobu2
+  rotate: false
+  xy: 398, 26
+  size: 113, 80
+  orig: 115, 80
+  offset: 0, 0
+  index: -1
+wenyang_youbijia
+  rotate: false
+  xy: 569, 180
+  size: 52, 133
+  orig: 52, 134
+  offset: 0, 1
+  index: -1
+wenyang_youshou
+  rotate: true
+  xy: 379, 193
+  size: 49, 143
+  orig: 52, 144
+  offset: 2, 0
+  index: -1
+wenyang_youshoubi
+  rotate: false
+  xy: 2, 36
+  size: 128, 132
+  orig: 141, 144
+  offset: 1, 1
+  index: -1
+wenyang_zuobijia
+  rotate: true
+  xy: 586, 122
+  size: 56, 35
+  orig: 58, 36
+  offset: 2, 1
+  index: -1
+wenyang_zuojianjia
+  rotate: false
+  xy: 623, 88
+  size: 75, 50
+  orig: 76, 51
+  offset: 1, 0
+  index: -1
+wenyang_zuoshou
+  rotate: false
+  xy: 379, 244
+  size: 143, 69
+  orig: 143, 69
+  offset: 0, 0
+  index: -1
