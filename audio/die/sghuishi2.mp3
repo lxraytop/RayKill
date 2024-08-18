@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" id="viewport" />
+    <link rel=icon type=image/x-icon href=https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico> <link rel="shortcut icon" type=image/x-icon href=https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico> 
+    <title>404 Not Found</title>
+<link href="https://assets.codehub.cn/micro-frontend/error-006e2d1c.css" rel="stylesheet"></head>
+
+<body>
+    <div class="page page-404">
+        <div class="wrapper">
+            <div>
+                <img src="https://assets.codehub.cn/micro-frontend/static/media/404@2x.4823ecca.png" alt="">
+                <p class="summary">抱歉，您请求的页面暂时无法打开，请稍后再试！</p>
+                <a class="button" href="/">返回首页</a>
+            </div>
+        </div>
+        <p class="footer">Powered by CODING DevOps</p>
+    </div>
+<script type="text/javascript" src="https://assets.codehub.cn/micro-frontend/runtime~error-fc26f668.js"></script><script type="text/javascript" src="https://assets.codehub.cn/micro-frontend/error-006e2d1c.js"></script></body>
+</html>
